@@ -1,0 +1,1438 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "legendaries"
+	group: "7A3B25ABFD04C294"
+	icon: {
+		components: {
+			"ftbquests:icon": "cobblemon:item/poke_balls/master_ball"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "3FAAF64134E794CB"
+	images: [
+		{
+			height: 15.0d
+			image: "chipped:block/dark_oak_planks/framed_dark_oak_planks"
+			rotation: 0.0d
+			width: 27.0d
+			x: -11.0d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -20.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -20.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -20.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -20.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -20.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -20.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -20.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -20.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -20.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -19.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -19.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -19.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -18.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -9.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/white_concrete"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -7.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "56765A55E1776820"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "41148C42C86F63AF"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "775318FA7F3A9AD4"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "4AE89449286C1EB7"
+				item: { count: 1, id: "legendarymonuments:old_sea_map" }
+				type: "item"
+			}]
+			x: -6.75d
+			y: 1.5d
+		}
+		{
+			dependencies: ["464EDB98C6B02B41"]
+			id: "102FA36986394529"
+			rewards: [
+				{
+					count: 5
+					id: "79E4452D4B136B9D"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5A517346F8EDE9FF"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "344600B120D898E5"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:mew"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.5d
+			y: 3.75d
+		}
+		{
+			dependencies: ["464EDB98C6B02B41"]
+			id: "62DD247E716E73B1"
+			rewards: [
+				{
+					count: 8
+					id: "3EF294D3926F9253"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "597CCABD2BDEA84E"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0A077C4007819F16"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:mew"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.5d
+			y: -0.75d
+		}
+		{
+			dependencies: ["56765A55E1776820"]
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/map/decorations/jungle_temple.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "464EDB98C6B02B41"
+			max_completable_dependents: 1
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "68085E3F185F9F28"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "14F3FA7D93E21885"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					id: "minecraft:filled_map"
+				}
+				id: "54117C06C051EF14"
+				structure: "legendarymonuments:final_island"
+				type: "structure"
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "60907CCF3E0AA183"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2880ADBBD4FD9FC5"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "54EA932D4020EE8A"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "01ABE344C6DD2B45"
+				item: { count: 1, id: "legendarymonuments:urn_of_frost" }
+				type: "item"
+			}]
+			x: -15.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["60907CCF3E0AA183"]
+			id: "7C34DAE40BF586BC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "06B83F6320C7FB57"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "7437F4A02EEFB7C3"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				action: "defeat"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "218B1488F18838C9"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ice"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7C34DAE40BF586BC"]
+			id: "36EC820F59C17B93"
+			rewards: [
+				{
+					count: 5
+					id: "4E247C9AFDA4C67F"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2A7842594014567D"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3BB3F0AA080D1216"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:articuno"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.5d
+			y: 0.75d
+		}
+		{
+			dependencies: ["7C34DAE40BF586BC"]
+			id: "537A1965CC433D0C"
+			rewards: [
+				{
+					count: 8
+					id: "185FCC7739DAF017"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2CB4BE2860FF1E78"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "349235105350C7BB"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:articuno"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.5d
+			y: 0.75d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "7E0382E59A70BC53"
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "5EA9B2CC696CF769"
+				item: { count: 1, id: "legendarymonuments:urn_of_storms" }
+				type: "item"
+			}]
+			x: -20.25d
+			y: 6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "083D2F6AA3F65F3A"
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "6F3D800CB057D905"
+				item: { count: 1, id: "legendarymonuments:urn_of_embers" }
+				type: "item"
+			}]
+			x: -9.75d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7E0382E59A70BC53"]
+			id: "690F0A2F70379626"
+			tasks: [{
+				action: "defeat"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "645F591678605549"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "electric"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -19.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["083D2F6AA3F65F3A"]
+			id: "1B173CCD918821C1"
+			tasks: [{
+				action: "defeat"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "43781B76F42E6E4C"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fire"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["690F0A2F70379626"]
+			id: "52180AF0EEE21ADA"
+			rewards: [
+				{
+					count: 8
+					id: "37E26F0ACC83B55B"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "043E5D81DA66C7FE"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "51EFF73DFB9BFF03"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:zapdos"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -16.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["690F0A2F70379626"]
+			id: "4BF75902235D0E59"
+			rewards: [
+				{
+					count: 5
+					id: "0521212174D83CB3"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7461E1B49E97A5E5"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "38565CDDF57BBEF9"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:zapdos"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -18.0d
+			y: 2.25d
+		}
+		{
+			dependencies: ["1B173CCD918821C1"]
+			id: "3C0D97EB9FF73C9B"
+			rewards: [
+				{
+					count: 5
+					id: "0B1BA5BBC71C2971"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2C6E7C217A93C470"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "748B1DE3D42C7EAF"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:moltres"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -13.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1B173CCD918821C1"]
+			id: "604A6C2E1DE65017"
+			rewards: [
+				{
+					count: 8
+					id: "6DD83E34DEBFEAC9"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6D7D73F38EBA68F3"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3875A11C727093A8"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:moltres"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: 2.25d
+		}
+		{
+			dependencies: [
+				"36EC820F59C17B93"
+				"4BF75902235D0E59"
+				"3C0D97EB9FF73C9B"
+				"102FA36986394529"
+			]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/mark/ribbon_champion.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "25C0B42D22F86599"
+			size: 2.0d
+			tasks: [{
+				id: "21080C4223BE60DC"
+				type: "checkmark"
+			}]
+			x: -11.0d
+			y: -1.0d
+		}
+	]
+}

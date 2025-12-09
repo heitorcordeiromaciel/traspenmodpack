@@ -1,0 +1,114 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "shop"
+	group: ""
+	icon: {
+		id: "cobblemon:relic_coin_pouch"
+	}
+	id: "6057237CDDB7B791"
+	images: [{
+		color: 3025965
+		height: 2.0d
+		image: "mega_showdown:block/keystone_block"
+		rotation: 0.0d
+		width: 2.0d
+		x: 1.5d
+		y: -1.5d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			icon: {
+				components: {
+					"ftbquests:icon": "ftblibrary:icons/star"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "29074FC53C1A4A89"
+			optional: true
+			rewards: [{
+				command: "/pokeedit 1 shiny"
+				icon: {
+					components: {
+						"ftbquests:icon": "ftblibrary:icons/star"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "32C67F2C1B3B140E"
+				type: "command"
+			}]
+			size: 1.5d
+			tasks: [{
+				consume_items: true
+				count: 1024L
+				disable_toast: true
+				id: "161172CDE83ADEE6"
+				item: { count: 1, id: "cobblemon:relic_coin" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.75d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "mega_showdown:mega_stone"
+			}
+			id: "55611D173EDCC1A0"
+			optional: true
+			rewards: [{
+				id: "322321ACA8C8BAE3"
+				item: {
+					count: 1
+					id: "mega_showdown:mega_stone"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				consume_items: true
+				count: 256L
+				disable_toast: true
+				id: "5A753001C075E4BA"
+				item: { count: 1, id: "cobblemon:relic_coin" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "mega_showdown:mega_stone"
+			}
+			id: "662E7E15CBEB545D"
+			optional: true
+			rewards: [{
+				count: 3
+				id: "0107F67CC13A09F8"
+				item: {
+					count: 1
+					id: "mega_showdown:mega_stone"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				consume_items: true
+				count: 768L
+				disable_toast: true
+				id: "24B1ECEE8B9729BB"
+				item: { count: 1, id: "cobblemon:relic_coin" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+	]
+}

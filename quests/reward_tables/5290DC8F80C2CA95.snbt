@@ -1,0 +1,25 @@
+{
+	id: "5290DC8F80C2CA95"
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{ id: "0A106D61DB5E7357", item: { count: 1, id: "mega_showdown:legend_plate" } }
+		{ id: "177E58C302E7550F", item: { count: 1, id: "mega_showdown:flame_plate" } }
+		{ id: "74C17C69BEE57276", item: { count: 1, id: "mega_showdown:splash_plate" } }
+		{ id: "4174855586042324", item: { count: 1, id: "mega_showdown:zap_plate" } }
+		{ id: "41D19CE8A20711D2", item: { count: 1, id: "mega_showdown:meadow_plate" } }
+		{ id: "5057CEEB5901DB16", item: { count: 1, id: "mega_showdown:icicle_plate" } }
+		{ id: "45B19548B1666AD8", item: { count: 1, id: "mega_showdown:fist_plate" } }
+		{ id: "298C3D3758680992", item: { count: 1, id: "mega_showdown:toxic_plate" } }
+		{ id: "678EDE612CDC3D57", item: { count: 1, id: "mega_showdown:earth_plate" } }
+		{ id: "13D8BC35391AD929", item: { count: 1, id: "mega_showdown:sky_plate" } }
+		{ id: "6FDCE029D1A28C4E", item: { count: 1, id: "mega_showdown:mind_plate" } }
+		{ id: "1D6D3D6EA2B21A65", item: { count: 1, id: "mega_showdown:insect_plate" } }
+		{ id: "1D598A78ED561C1E", item: { count: 1, id: "mega_showdown:stone_plate" } }
+		{ id: "7C647190286EDC76", item: { count: 1, id: "mega_showdown:spooky_plate" } }
+		{ id: "14D98653E49CE0AC", item: { count: 1, id: "mega_showdown:draco_plate" } }
+		{ id: "1CE13E57EC626CE0", item: { count: 1, id: "mega_showdown:dread_plate" } }
+		{ id: "5016A48214D45DE3", item: { count: 1, id: "mega_showdown:iron_plate" } }
+		{ id: "1215C323A6910F1A", item: { count: 1, id: "mega_showdown:pixie_plate" } }
+	]
+}

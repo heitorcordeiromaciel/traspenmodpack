@@ -1,0 +1,18 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bundle_1"
+	group: "4BB2D90F420E3A91"
+	id: "1F3BC0E04D66A76D"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "6752012806245B68"
+		tasks: [{
+			id: "33DFD5B8B7889351"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.5d
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	id: "730F5A3CD029BE6C"
+	loot_size: 1
+	order_index: 13
+	rewards: [
+		{ id: "54513F69E7B46EAF", item: { count: 1, id: "cobblemon:leftovers" } }
+		{ id: "0387CEF10C0304A3", item: { count: 1, id: "cobblemon:rocky_helmet" } }
+		{ id: "6F8005A59FAD1431", item: { count: 1, id: "cobblemon:life_orb" } }
+		{ id: "6079B10CCA4BBF15", item: { count: 1, id: "cobblemon:black_sludge" } }
+	]
+}

@@ -1,0 +1,10 @@
+{
+	id: "31BD84FB02E1523E"
+	loot_size: 1
+	order_index: 14
+	rewards: [
+		{ id: "59851D7284ECF38E", item: { count: 1, id: "cobblemon:helix_fossil" } }
+		{ id: "0994603222AAB244", item: { count: 1, id: "cobblemon:dome_fossil" } }
+		{ id: "2F54E991C076306F", item: { count: 1, id: "cobblemon:old_amber_fossil" } }
+	]
+}

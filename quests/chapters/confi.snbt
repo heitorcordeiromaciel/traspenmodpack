@@ -1,0 +1,316 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "confi"
+	group: ""
+	icon: {
+		id: "create:cogwheel"
+	}
+	id: "7F6B827B722AB51E"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["38331CB88EC4F2AE"]
+			disable_toast: true
+			id: "7E6A310F8A5F4441"
+			max_completable_dependents: 1
+			rewards: [{
+				auto: "enabled"
+				command: "/difficulty peaceful"
+				id: "57E4FD78F7BD19B0"
+				permission_level: 4
+				type: "command"
+			}]
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "514014A791654297"
+				type: "checkmark"
+			}]
+			x: -0.75d
+			y: -2.25d
+		}
+		{
+			dependencies: ["38331CB88EC4F2AE"]
+			disable_toast: true
+			id: "7EA6AC99088B72E6"
+			max_completable_dependents: 1
+			rewards: [{
+				auto: "enabled"
+				command: "/difficulty easy"
+				id: "1E2782AB5C327CB4"
+				permission_level: 4
+				type: "command"
+			}]
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "4A1090907A13764B"
+				type: "checkmark"
+			}]
+			x: -0.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["38331CB88EC4F2AE"]
+			disable_toast: true
+			id: "6FCCFCC6226A417D"
+			max_completable_dependents: 1
+			rewards: [{
+				auto: "enabled"
+				command: "/difficulty normal"
+				id: "22BF1E441D10ACF9"
+				permission_level: 4
+				type: "command"
+			}]
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "48E5C87CC3F0A8CF"
+				type: "checkmark"
+			}]
+			x: -0.75d
+			y: 2.25d
+		}
+		{
+			dependencies: ["38331CB88EC4F2AE"]
+			disable_toast: true
+			id: "461FEAD980E1F9CA"
+			max_completable_dependents: 1
+			rewards: [{
+				auto: "enabled"
+				command: "/difficulty hard"
+				id: "5CD9CEC22FB9231E"
+				permission_level: 4
+				type: "command"
+			}]
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "153F3F3C160779DB"
+				type: "checkmark"
+			}]
+			x: -0.75d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"7EA6AC99088B72E6"
+				"461FEAD980E1F9CA"
+				"7E6A310F8A5F4441"
+				"6FCCFCC6226A417D"
+			]
+			dependency_requirement: "one_completed"
+			disable_toast: true
+			id: "22CDA8C81A91324E"
+			max_completable_dependents: 1
+			rewards: [{
+				auto: "enabled"
+				command: "/gamerule keepInventory true"
+				id: "46DFAF42FA57AB6E"
+				permission_level: 4
+				type: "command"
+			}]
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "0177FA0528AF6494"
+				type: "checkmark"
+			}]
+			x: 2.25d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"7EA6AC99088B72E6"
+				"461FEAD980E1F9CA"
+				"7E6A310F8A5F4441"
+				"6FCCFCC6226A417D"
+			]
+			dependency_requirement: "one_completed"
+			disable_toast: true
+			id: "2E580198824C360B"
+			max_completable_dependents: 1
+			rewards: [{
+				auto: "enabled"
+				command: "/gamerule keepInventory false"
+				id: "15ED2D3E42B7A063"
+				permission_level: 4
+				type: "command"
+			}]
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "42416575279BDE6E"
+				type: "checkmark"
+			}]
+			x: 2.25d
+			y: 2.25d
+		}
+		{
+			dependencies: [
+				"2E580198824C360B"
+				"22CDA8C81A91324E"
+			]
+			dependency_requirement: "one_completed"
+			disable_toast: true
+			id: "44CC5118488007D4"
+			max_completable_dependents: 1
+			rewards: [{
+				auto: "enabled"
+				command: "/gamerule doMobSpawning true"
+				id: "7200DFAEC9AB3430"
+				permission_level: 4
+				type: "command"
+			}]
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "0CF83180EA65C258"
+				type: "checkmark"
+			}]
+			x: 5.25d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"22CDA8C81A91324E"
+				"2E580198824C360B"
+			]
+			dependency_requirement: "one_completed"
+			disable_toast: true
+			id: "43159FB0F46A2C56"
+			max_completable_dependents: 1
+			rewards: [{
+				auto: "enabled"
+				command: "/gamerule doMobSpawning false"
+				id: "2FD21E45D05D29ED"
+				permission_level: 4
+				type: "command"
+			}]
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "1F2D1A26F75D80D5"
+				type: "checkmark"
+			}]
+			x: 5.25d
+			y: 2.25d
+		}
+		{
+			dependencies: [
+				"43159FB0F46A2C56"
+				"44CC5118488007D4"
+			]
+			dependency_requirement: "one_completed"
+			disable_toast: true
+			id: "233A9F3938FABCB9"
+			rewards: [{
+				auto: "enabled"
+				command: "/gamerule playersSleepingPercentage 1"
+				id: "5FCCC518C4E309A6"
+				permission_level: 4
+				type: "command"
+			}]
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "2E4782695F0F92C9"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"43159FB0F46A2C56"
+				"44CC5118488007D4"
+			]
+			dependency_requirement: "one_completed"
+			disable_toast: true
+			id: "6621F7FCAFA53932"
+			rewards: [{
+				auto: "enabled"
+				command: "/gamerule playersSleepingPercentage 50"
+				id: "0378CB3C28818434"
+				permission_level: 4
+				type: "command"
+			}]
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "18A3C771D36E13C6"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"43159FB0F46A2C56"
+				"44CC5118488007D4"
+			]
+			dependency_requirement: "one_completed"
+			disable_toast: true
+			id: "726CD8A57912B25F"
+			rewards: [{
+				auto: "enabled"
+				command: "/gamerule playersSleepingPercentage 100"
+				id: "2771EA4B07C17E0F"
+				permission_level: 4
+				type: "command"
+			}]
+			size: 1.5d
+			tasks: [{
+				disable_toast: true
+				id: "3E313BFD4BD752B1"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"726CD8A57912B25F"
+				"233A9F3938FABCB9"
+				"6621F7FCAFA53932"
+			]
+			dependency_requirement: "one_completed"
+			disable_toast: true
+			id: "56A043B7319652D2"
+			rewards: [{
+				auto: "enabled"
+				id: "7188DE67E7025A3D"
+				item: {
+					count: 1
+					id: "ftbquests:book"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				disable_toast: true
+				id: "100D5C39D87B4423"
+				type: "checkmark"
+			}]
+			x: 12.5d
+			y: 1.0d
+		}
+		{
+			disable_toast: true
+			id: "38331CB88EC4F2AE"
+			max_completable_dependents: 1
+			progression_mode: "linear"
+			shape: "rsquare"
+			size: 1.0d
+			tasks: [{
+				disable_toast: true
+				id: "771281D2C399F8C1"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 1.0d
+		}
+	]
+}

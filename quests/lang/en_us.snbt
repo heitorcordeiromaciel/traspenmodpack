@@ -1,0 +1,1241 @@
+{
+	chapter.05D4FCEE1C64A6B7.title: "Legendary Quests"
+	chapter.0BF415E12AA9ABE0.title: "Poké Rods !"
+	chapter.1472E6AC3EE66D62.title: "Dynamax \\& Gigantamax !"
+	chapter.18B1DEB31A23C049.title: "Poké Balls !"
+	chapter.1D8CB429DA2243D2.title: "Evolving Items !"
+	chapter.1F3BC0E04D66A76D.title: "Bundle 1"
+	chapter.211FCB576565CD4B.title: "The Beginning!"
+	chapter.29B5FF4288515F44.title: "Z-Moves !"
+	chapter.3FAAF64134E794CB.title: "Legendaries !"
+	chapter.3FCFFB7956A3D182.title: "Fossils !"
+	chapter.41AFF2DA138387A8.title: "Omni Ring !"
+	chapter.430284DBA72F6FCD.title: "Holding Items !"
+	chapter.456A7B79EC4BE573.title: "Medicine \\& PowerUps !"
+	chapter.45A5E7C50E557319.title: "Mega Evoluton !"
+	chapter.486AB1E2FCF6AF59.title: "Eeveelutions!"
+	chapter.4C8F4425F1423CCF.title: "Pokédex"
+	chapter.59517BC7C17AD9CD.title: "Plants !"
+	chapter.5BC3200F9B07DFB0.title: "Unique Evoloutions !"
+	chapter.5EBA1DE7FEE41287.title: "Berries !"
+	chapter.6057237CDDB7B791.title: "Shop"
+	chapter.7CFF3563420B8C92.title: "Terastalization !"
+	chapter.7D81F917A36C958B.title: "Fusions !"
+	chapter.7F6B827B722AB51E.title: "Config"
+	chapter_group.0D71855D01B1484A.title: "Mega Showdown !"
+	chapter_group.465BCD647768A571.title: "Chapter 3"
+	chapter_group.4BB2D90F420E3A91.title: "Chapter 2"
+	chapter_group.5A414AC1BCA19975.title: "Collector !"
+	chapter_group.6B11387A7B47E8DB.title: "End"
+	chapter_group.7A3B25ABFD04C294.title: "Chapter 1: Begginings"
+	quest.0008CDF1ACCA266F.title: "Catch Necrozma !"
+	quest.009D6B0704C825EE.quest_desc: ["Found in Peak, Temperate, or Sky Biomes !"]
+	quest.009D6B0704C825EE.quest_subtitle: "Found in Peak, Temperate, or Sky Biomes !"
+	quest.00DC0DF62DB12F51.title: "Catch Zekrom !"
+	quest.0112832716E8727F.quest_desc: [
+		"Defeat Alice in Battle to get the &#69AFFFFeather&r Badge !"
+		""
+		"Alice’s &#9AB6FFFlying-type&r Pokémon soar with pride. Ground her plans with clever strategy and reach new heights !"
+	]
+	quest.0112832716E8727F.quest_subtitle: "Defeat Alice in Battle !"
+	quest.0112832716E8727F.title: "&#69AFFFFeather&r Badge (Alice) !"
+	quest.01B0251080F4C765.quest_desc: ["Has drop rate of 10% !"]
+	quest.01B0251080F4C765.quest_subtitle: "Obtained by defeating a Dark-type Pokémon !"
+	quest.01B9BD934F0FD87C.quest_desc: [""]
+	quest.01B9BD934F0FD87C.quest_subtitle: "Craft Tera Orb, then right click to equip !"
+	quest.01B9BD934F0FD87C.title: "Craft Tera Orb !"
+	quest.02A428333C13CCEB.quest_subtitle: "Evolve Eevee with high friendship and has a Fairy-type move !"
+	quest.02FD55D3061FB0DE.quest_desc: ["Welcome to Cobblemon!, Start your advnture and just have fun !"]
+	quest.02FD55D3061FB0DE.quest_subtitle: "Click check mark to complete this quest !"
+	quest.02FD55D3061FB0DE.title: "Welcome to Cobblemon!"
+	quest.037F17A48E12CDF1.title: "Buy 12 Ender Eyes !"
+	quest.0412555EDD02C321.quest_desc: [""]
+	quest.0412555EDD02C321.quest_subtitle: "Break Wishing Star Crtystal to get a Wishing Star !"
+	quest.0412555EDD02C321.title: "Obtain a Wishing Star !"
+	quest.042C93A9650C2F9A.quest_desc: ["Revive by inserting &#FF8F6BArmor Fossil&r in a restoration machine !"]
+	quest.042C93A9650C2F9A.title: "Revive Shieldon !"
+	quest.04ED3B92B305C3D2.quest_desc: [""]
+	quest.04ED3B92B305C3D2.title: "Make Max Sweet Soup !"
+	quest.0548F85BD3E8AAB1.quest_desc: ["Has drop rate of 10% !"]
+	quest.0548F85BD3E8AAB1.quest_subtitle: "Obtained by defeating a Fairy-type Pokémon !"
+	quest.05CD90796AD241A0.quest_subtitle: "Catch the Shiny Legendary Regice !"
+	quest.05CD90796AD241A0.title: "Shiny Regice !"
+	quest.06225330AE907264.quest_desc: [""]
+	quest.06225330AE907264.quest_subtitle: "Used to predict what you’ll catch when fishing!"
+	quest.06225330AE907264.title: "Craft a FisihingNav !"
+	quest.06A3223C228F1ED7.quest_subtitle: "Catch the Legendary Groudon!"
+	quest.06A3223C228F1ED7.title: "Groudon!"
+	quest.06A91D098D66DF74.quest_desc: [
+		"Defeat Corrado in Battle to get the &#FFC776Bea&rc&#8D8D8Don&r Badge !"
+		""
+		"Corrado’s &#FFD861Electric-type&r Pokémon spark with energy. Stay alert and prove that no current can stop your power !"
+	]
+	quest.06A91D098D66DF74.quest_subtitle: "Defeat Corrado in Battle !"
+	quest.06A91D098D66DF74.title: "&#FFC776Bea&rc&#8D8D8Don&r Badge (Corrado) !"
+	quest.0728A7D663A17F6F.quest_subtitle: "Collect Ash's Cap from his room !"
+	quest.0728A7D663A17F6F.title: "Ash Cap !"
+	quest.079EEFB1B99191F2.quest_desc: ["Use Pokeballs to catch new Pokémon!"]
+	quest.079EEFB1B99191F2.quest_subtitle: "Catch 70% of the Pokédex"
+	quest.079EEFB1B99191F2.title: "Veteran Collector"
+	quest.083D2F6AA3F65F3A.quest_subtitle: "Craft the Urn of Embers!"
+	quest.083D2F6AA3F65F3A.title: "Tres!"
+	quest.087B7D2C2FCCD5B4.quest_desc: [
+		"Defeat Vulcano in Battle to advance through the Elite Four of Sinnoh !"
+		""
+		"Vulcano’s &#FF7749Fire&r Pokémon blaze with intensity and force. Face the heat without fear and push through his scorching strength!"
+	]
+	quest.087B7D2C2FCCD5B4.quest_subtitle: "Defeat Vulcano in Battle !"
+	quest.087B7D2C2FCCD5B4.title: "Sinnoh Third Elite !"
+	quest.099C322568AFB6F9.quest_desc: ["Found through wandering traders, Monster rooms, Mineshafts, Jungle pyramids, Village houses, and Shipwreck supply chests !"]
+	quest.09A3D8BF648FD961.title: "Make a Max Soup !"
+	quest.0A89AC156A3989E7.quest_subtitle: "Catch the Shiny Legendary Ho-Oh !"
+	quest.0A89AC156A3989E7.title: "Shiny Ho-Oh !"
+	quest.0AA071830EEF2164.quest_desc: ["Use the Pokédex Scan function to Register Pokémon."]
+	quest.0AA071830EEF2164.quest_subtitle: "Register 20% of the Pokédex"
+	quest.0AA071830EEF2164.title: "Picking Up Pace"
+	quest.0B1DBB5AB3845AB2.quest_desc: ["Found in All Biomes !"]
+	quest.0B1DBB5AB3845AB2.quest_subtitle: "Found in All Biomes !"
+	quest.0B91219C515B33FC.title: "Gigantamax a Pokémon !"
+	quest.0CC1FBC4C4D49392.quest_desc: ["Craft all &#020202Poké Rods&r to get the Master Ball !"]
+	quest.0CC1FBC4C4D49392.quest_subtitle: "Craft all Poké Rods !"
+	quest.0CC1FBC4C4D49392.title: "Gotta Hook 'em All !"
+	quest.0CEA617A7C8AC36D.quest_subtitle: "Catch the Legendary Kyogre!"
+	quest.0CEA617A7C8AC36D.title: "Kyogre!"
+	quest.0D2DD145FD74A6F6.quest_desc: [""]
+	quest.0D2DD145FD74A6F6.quest_subtitle: "Gather what decay has touched."
+	quest.0D2DD145FD74A6F6.title: "Signs of Ruin"
+	quest.0D4F83C70CE87C29.quest_desc: [
+		"1. Equip Terra Orb by right clicking while the item on right hand."
+		""
+		"2. You can Terastallize in buttle only: Click the Terastalization button, then choose any move !"
+	]
+	quest.0D4F83C70CE87C29.quest_subtitle: "Read the description for details !"
+	quest.0DB909B0FD28B9A5.quest_desc: [
+		"1. Right‑click Zekrom with the DNA Splicers to charge it."
+		""
+		"2. Right‑click Kyurem with the charged Splicers to transform into Black Kyurem."
+		""
+		"(You can &nundo&r the fusion by right-click Black Kyurem with DNA Splicer) !"
+	]
+	quest.0DB909B0FD28B9A5.quest_subtitle: "Read the description for details !"
+	quest.0DB909B0FD28B9A5.title: "How to get Black Kyurem Fusion !"
+	quest.0DFEEFAA88CEAB48.quest_desc: ["Found in Badlands, Spooky, or Taiga Biomes !"]
+	quest.0DFEEFAA88CEAB48.quest_subtitle: "Found in Badlands, Spooky, or Taiga Biomes !"
+	quest.0E33E095CBC95FA7.quest_subtitle: "Evolve Eevee using an Ice Stone !"
+	quest.0E33E095CBC95FA7.title: "Glaceon !"
+	quest.0E787685D592AFFC.quest_desc: [
+		"You’ve collected all 8 &#FF0514Kanto&r Badges — it’s time for the Elite Four!"
+		""
+		"Go to the Elite Four Tower in &#772AB7The End&r to begin your challenge. Defeat all 4 members to earn the right to face the Kanto Champion!"
+	]
+	quest.0EBC59C56DAC57DD.quest_desc: ["Use the Pokédex Scan function to Register Pokémon."]
+	quest.0EBC59C56DAC57DD.quest_subtitle: "Register 10% of the Pokédex"
+	quest.0EBC59C56DAC57DD.title: "Small steps"
+	quest.0EF2E98AE8867002.quest_desc: [
+		"Congrats on beating Johto’s Champion!"
+		""
+		"Your next challenge is the Hoenn Gyms. Defeat all 8 Leaders and collect their Badges."
+		""
+		"Please restart the game to spawn &#82FF05Hoenn&r Gyms."
+		"(Sorry, that’s just how the modpack works!)"
+	]
+	quest.0EF2E98AE8867002.title: "Hoenn Gyms !"
+	quest.0FAF5C154E4CC224.quest_subtitle: "Catch the Legendary Latios !"
+	quest.0FAF5C154E4CC224.title: "Latios !"
+	quest.102FA36986394529.quest_desc: ["Use the Old Sea Map on the altar to summon Mew!"]
+	quest.102FA36986394529.quest_subtitle: "Summon Mew!"
+	quest.102FA36986394529.title: "Mew!"
+	quest.1091B0A9BF5B00DD.quest_desc: ["Use the Pokédex Scan function to Register Pokémon."]
+	quest.1091B0A9BF5B00DD.quest_subtitle: "Register 80% of the Pokédex!"
+	quest.1091B0A9BF5B00DD.title: "Nearly Encyclopedic"
+	quest.10E7617929623D39.quest_desc: ["Craft a Z-ring, then right click to equip !"]
+	quest.11B6FCDD5FAB137F.quest_desc: ["Use Pokeballs to catch new Pokémon!"]
+	quest.11B6FCDD5FAB137F.quest_subtitle: "Catch 60% of the Pokédex"
+	quest.11B6FCDD5FAB137F.title: "Collection in Motion"
+	quest.11FFE0B87DAF09B1.quest_desc: [
+		"1. Equip one of the Z-Rings by right clicking while item on right hand."
+		""
+		"2. A Z-Crystal is required to be held by a pokemon in order to perform it."
+		""
+		"3. In battle, click on Z-move button, then choose the new highlighted move."
+		""
+		"4. You are not able to use dynamax if a pokemon is holding a Z-Crystal, since it is a different battle gimmick to dynamax, this apply as well to Mega stones."
+	]
+	quest.11FFE0B87DAF09B1.quest_subtitle: "Read the description for details !"
+	quest.121C07E7FE81E2E1.title: "Find Celebi Shrine !"
+	quest.1311FD98E021E9AF.quest_subtitle: "Evolve Eevee with high friendship during the night !"
+	quest.1311FD98E021E9AF.title: "Umbreon !"
+	quest.13130CA03346A08F.quest_desc: [
+		"Defeat Giovanni in Battle to get the &#05721BEar&r&#AEFFB0th&r badge !"
+		""
+		"Giovanni commands power, control, and ambition. Defeat his &#7C371EGround-type&r forces to claim the Earth Badge — the final proof that strength without honor means nothing!"
+	]
+	quest.13130CA03346A08F.quest_subtitle: "Defeat Giovanni in Battle !"
+	quest.13130CA03346A08F.title: "&#05721BEar&r&#AEFFB0th&r Badge (Giovanni) !"
+	quest.133805E6A31D3E4D.title: "Find Deoxys Meteorites !"
+	quest.133B933693414CB0.quest_subtitle: "Catch the Legendary Ho-Oh !"
+	quest.133B933693414CB0.title: "Ho-Oh !"
+	quest.13BBEADA7EED5527.quest_desc: ["Has drop rate of 10% !"]
+	quest.13BBEADA7EED5527.quest_subtitle: "Obtained by defeating a Poison-type Pokémon !"
+	quest.13F27E26C674F4A5.quest_desc: [
+		"Defeat Omar in Battle to get the &#838383F&re&#539EFFn&r Badge !"
+		""
+		"Omar’s &#66A9FFWater-type&r Pokémon flow with speed and power. Ride the waves of battle and show your mastery !"
+	]
+	quest.13F27E26C674F4A5.quest_subtitle: "Defeat Omar in Battle !"
+	quest.13F27E26C674F4A5.title: "&#838383F&re&#539EFFn&r Badge (Omar) !"
+	quest.145986C6F62725EF.quest_subtitle: "Catch the Shiny Legendary Deoxys !"
+	quest.145986C6F62725EF.title: "Shiny Deoxys !"
+	quest.14BAB68C888A9078.quest_subtitle: "Found in the wilds. Collect Apricorns and Apricorn Sprouts !"
+	quest.14D615E06A5D0E95.quest_desc: ["Revive by inserting &#FF904CSkull Fossil&r in a restoration machine !"]
+	quest.14D615E06A5D0E95.title: "Revive Cranidos !"
+	quest.153B42AFEB5F9670.quest_desc: [
+		"Defeat Frida in Battle to advance through the Elite Four of Heonn !"
+		""
+		"Frida’s &bIce&r Pokémon are cold and relentless. Stay sharp and warm up your strategy to break through!"
+	]
+	quest.153B42AFEB5F9670.quest_subtitle: "Defeat Frida in Battle !"
+	quest.153B42AFEB5F9670.title: "Hoenn Third Elite !"
+	quest.1565E74BD3A3B19D.quest_subtitle: "Found in the wilds. Collect Apricorns and Apricorn Sprouts !"
+	quest.15668E539D9A6E2A.quest_desc: [""]
+	quest.15668E539D9A6E2A.quest_subtitle: "Craft May's Bracelet, then right click to equip !"
+	quest.15668E539D9A6E2A.title: "Craft May's Bracelet !"
+	quest.15D6F07686F779D9.quest_desc: [
+		"Defeat Petra in Battle to get the &#FF5C7BS&r&#FAFF81t&r&#663D20o&r&#FAFF81n&r&#FF5C7Be&r Badge !"
+		""
+		"Petra’s &#FFC8A9Rock-type&r Pokémon are as unyielding as the mountains themselves. Break through her defense with strategy and prove your strength !"
+	]
+	quest.15D6F07686F779D9.quest_subtitle: "Defeat Petra in Battle !"
+	quest.15D6F07686F779D9.title: "&#FF5C7BS&r&#FAFF81t&r&#663D20o&r&#FAFF81n&r&#FF5C7Be&r Badge (Petra) !"
+	quest.16184E6FC0D54619.quest_desc: [""]
+	quest.16184E6FC0D54619.quest_subtitle: "Walk where life has thinned."
+	quest.16184E6FC0D54619.title: "Where Death Settles"
+	quest.163662CC4C5AC105.title: "Catch Kyurem !"
+	quest.1645AC6DD2C8973B.quest_desc: ["Collect all &#7C4B2APower up&r, &#574DFFCandies&r, &#8FFFFFXP&r, &#FF50B6Medicines&r, amd &2Mints&r to unlock this reward !"]
+	quest.1645AC6DD2C8973B.quest_subtitle: "Collect all Power up, Candies, XP up, Medicines, and Mints !"
+	quest.16A283F649D91A0B.quest_desc: ["Found in Dripstone, Mountain, Sandy, or Volcanic Biomes !"]
+	quest.16A283F649D91A0B.quest_subtitle: "Found in Dripstone, Mountain, Sandy, or Volcanic Biomes !"
+	quest.16E1B0F3ABE60992.title: "Craft a power Spot !"
+	quest.16E9750BD81BD081.quest_desc: [""]
+	quest.17AC515A82A97FCC.quest_desc: ["Defeat the legendary trainer Red to get the GS Ball !"]
+	quest.17AC515A82A97FCC.quest_subtitle: "Defeat the legendary trainer Red ! Found next the Shrine !"
+	quest.17AC515A82A97FCC.title: "Aquire the GS Ball !"
+	quest.17D2EA4227096498.quest_desc: ["Collect all &#034DFFBerries&r to unlock this and get the Master Ball !"]
+	quest.17D2EA4227096498.quest_subtitle: "Collect all Berries !"
+	quest.17D2EA4227096498.title: "Gotta Pick 'em All !"
+	quest.180C52CDF3EFB1C9.quest_desc: ["Use Pokeballs to catch new Pokémon!"]
+	quest.180C52CDF3EFB1C9.quest_subtitle: "Catch 20% of the Pokédex"
+	quest.180C52CDF3EFB1C9.title: "Building the Team"
+	quest.1946D7F2E54C7697.quest_desc: [""]
+	quest.1946D7F2E54C7697.quest_subtitle: "Craft Maxie's Glasses, then right click to equip !"
+	quest.1946D7F2E54C7697.title: "Craft Maxie's Glasses !"
+	quest.19B1F4543974F94D.quest_subtitle: "Catch the Shiny Legendary Registeel !"
+	quest.19B1F4543974F94D.title: "Shiny Registeel !"
+	quest.1A3B86F549A2BE75.title: "Collect all Z-Crystals !"
+	quest.1A47CBEE47FDB7F0.quest_desc: [""]
+	quest.1A47CBEE47FDB7F0.quest_subtitle: "Craft a Mega Bracelet, then right click to equip !"
+	quest.1A47CBEE47FDB7F0.title: "Craft a Mega Bracelet !"
+	quest.1AAD2FA4DF615D90.quest_subtitle: "Condense ruin into a shell."
+	quest.1AAD2FA4DF615D90.title: "Heart of Ending"
+	quest.1B173CCD918821C1.quest_desc: ["Defeat 50x Fire-Type Pokémon to fill the urn!"]
+	quest.1B173CCD918821C1.quest_subtitle: "Defeat 50x Fire-Type Pokémon!"
+	quest.1B1D1C845691BC1A.quest_subtitle: "Evolve Eevee with high friendship during the day !"
+	quest.1B1D1C845691BC1A.title: "Espeon !"
+	quest.1BC6FDAC48A78315.title: "Cursed Enchanting"
+	quest.1C14120A3C29F973.quest_desc: [""]
+	quest.1C14120A3C29F973.quest_subtitle: "PokéNav will tell you which Pokémon can be spotted in your current location !"
+	quest.1C14120A3C29F973.title: "Craft a PokéNav !"
+	quest.1C35FC8CD94EDB4C.quest_desc: [
+		"1. Right‑click Glastrier with the Reins of Unity to charge it."
+		""
+		"2. Right‑click Calyrex with charged the Reins of Unity to become Ice Rider Calyrex."
+		""
+		"(You can &nundo&r the fusion by right-click Ice Rider Calyrex with Reins of Unity) !"
+	]
+	quest.1C35FC8CD94EDB4C.quest_subtitle: "Read the description for details !"
+	quest.1C35FC8CD94EDB4C.title: "How to get Ice Rider Calyrex Fusion !"
+	quest.1C40D1BB8C3A8271.quest_subtitle: "Found in the wilds. Collect Apricorns and Apricorn Sprouts !"
+	quest.1C7BE17A2DAA5A24.title: "Trade 1 Coin for 10 PokéDollar !"
+	quest.1CFDF9BD60692770.quest_desc: [""]
+	quest.1CFDF9BD60692770.quest_subtitle: "Craft Lisia Mega Tiara, then right click to equip !"
+	quest.1CFDF9BD60692770.title: "Craft Lisia Mega Tiara !"
+	quest.1D1841D0B0670308.title: "Find an Archeological Site !"
+	quest.1D62FB37D9900444.quest_desc: [
+		"Defeat Marzia in Battle to get the &#FF7D69C&ro&#FF7D69b&rb&#FF7D69l&re Badge !"
+		""
+		"Marzia’s &#FF050AFighting-type&r Pokémon strike with precision and force. Dodge, counter, and prove that your skill cannot be beaten !"
+	]
+	quest.1D62FB37D9900444.quest_subtitle: "Defeat Marzia in Battle !"
+	quest.1D62FB37D9900444.title: "&#FF7D69C&ro&#FF7D69b&rb&#FF7D69l&re Badge (Marzia) !"
+	quest.1DBA10FF3D34DA70.quest_desc: ["Found in Freezing or Taiga Biomes !"]
+	quest.1DBA10FF3D34DA70.quest_subtitle: "Found in Freezing or Taiga Biomes !"
+	quest.1F02EBBF8516864B.quest_desc: [""]
+	quest.1F02EBBF8516864B.quest_subtitle: "Craft Lysandre's ring, then right click to equip !"
+	quest.1F02EBBF8516864B.title: "Craft Lysandre's ring !"
+	quest.1F14066FF412651B.quest_desc: [
+		"Defeat Lance in Battle to battle the Champion of Kanto !"
+		""
+		"Wings of legend thunder through the skies. Lance’s &#0337FFDragons&r embody both fury and freedom — only a true champion can soar above their storm!"
+	]
+	quest.1F14066FF412651B.quest_subtitle: "Defeat Lance in Battle !"
+	quest.1F14066FF412651B.title: "Kanto Fourth Elite !"
+	quest.1FAEC39AEBE3ED15.quest_desc: ["Has drop rate of 10% !"]
+	quest.1FAEC39AEBE3ED15.quest_subtitle: "Obtained by defeating a Grass-type Pokémon !"
+	quest.1FCB04828260D948.quest_desc: [
+		"1. Right‑click Solgaleo with the N‑Solarizer to charge it."
+		""
+		"2. Right‑click Necrozma with charged N‑Solarizer to become Dusk Mane Necrozma."
+		""
+		"(You can &nundo&r the fusion by right-click Dusk Mane Necrozma with N‑Solarizer) !"
+	]
+	quest.1FCB04828260D948.quest_subtitle: "Read the description for details !"
+	quest.1FCB04828260D948.title: "How to get Dusk Mane Necrozma Fusion !"
+	quest.20A447AA417BA690.quest_desc: ["Has drop rate of 1% !"]
+	quest.20A447AA417BA690.quest_subtitle: "Obtained by defeating a any-type Pokémon !"
+	quest.20FC08360393822F.quest_subtitle: "Catch the Shiny Legendary Lugia !"
+	quest.20FC08360393822F.title: "Shiny Lugia !"
+	quest.21C1045078017179.quest_desc: ["Found in Jungle or Swamp Biome !"]
+	quest.21C1045078017179.quest_subtitle: "Found in Jungle or Swamp Biome !"
+	quest.2224196CE7342C1C.quest_desc: [
+		"You’ve chosen your first Pokémon — your journey starts now!"
+		""
+		"Explore the region, battle all 8 Gym Leaders, earn their Badges, and work your way toward the Pokémon League!"
+	]
+	quest.2224196CE7342C1C.title: "Kanto Gyms !"
+	quest.222994D96CE12AD6.quest_subtitle: "Using all Units above craft Rotom Catalogue !"
+	quest.222994D96CE12AD6.title: "Craft a Rotom Catalogue !"
+	quest.22CDA8C81A91324E.quest_subtitle: "Yes"
+	quest.233A9F3938FABCB9.quest_subtitle: "One Player"
+	quest.233A9F3938FABCB9.title: "Sleep Percentage"
+	quest.23903D381303B616.quest_subtitle: "Using certain types of Berries or PokéBalls raises Greninja’s friendship to max !"
+	quest.23903D381303B616.title: "Raise Greninja Friendship !"
+	quest.23C6FEC855031A99.quest_desc: ["Has drop rate of 10% !"]
+	quest.23C6FEC855031A99.quest_subtitle: "Obtained by defeating a Ice-type Pokémon !"
+	quest.240D0D361DCFDC51.quest_desc: [
+		"You’ve collected all 8 &#FF2EAASinnoh&r Badges — it’s time for the Elite Four!"
+		""
+		"Go to the Sinnoh League (Desert Oasis) to begin your challenge. Defeat all 4 members to earn the right to face the Hoenn Champion!"
+	]
+	quest.247178E01879A603.title: "Terastallize a Pokémon !"
+	quest.24790F0243D0FC12.title: "Echoes in the Dark"
+	quest.24D62E8C78821D15.quest_desc: [
+		"Defeat Ferruccio in Battle to get the &#85672AM&r&#9D9D9Di&r&#85672An&r&#9D9D9De&r Badge !"
+		""
+		"Ferruccio’s &#565D70Steel-type&r Pokémon are as unyielding as metal. Strike with strategy and show your resilience !"
+	]
+	quest.24D62E8C78821D15.quest_subtitle: "Defeat Ferruccio in Battle !"
+	quest.24D62E8C78821D15.title: "&#85672AM&r&#9D9D9Di&r&#85672An&r&#9D9D9De&r Badge (Ferruccio) !"
+	quest.252B268F7593812B.quest_desc: [
+		"By left-clicking Scroll of Water on Kubfu, you can evolve it into Rapid Strike Style (Fighting/Water) !"
+		""
+		"Has a unqiue Gigantamax Form !"
+	]
+	quest.252B268F7593812B.title: "Evolve Kubfo into Rapid Strike Style Urshifu !"
+	quest.25A0273D06F317A4.quest_desc: [
+		"1. Right‑click Lunala with the N-Lunarizer to charge it."
+		""
+		"2. Right‑click Necrozma with charged N-Lunarizer to become Dawn Wings Necrozma."
+		""
+		"(You can &nundo&r the fusion by right-click Dawn Wings Necrozma with N-Lunarizer) !"
+	]
+	quest.25A0273D06F317A4.quest_subtitle: "Read the description for details !"
+	quest.25A0273D06F317A4.title: "How to get Dawn Wings Necrozma Fusion !"
+	quest.262421074DA89C77.quest_subtitle: "Plant Vivichoke Seeds then harvest Vivichoke !"
+	quest.268606FA070169BD.title: "Evolve into Frogadier !"
+	quest.26B69F36C306857A.quest_subtitle: "Collect by breaking Red Mint plant !"
+	quest.273FD269DFCF1BA2.quest_desc: ["Revive by inserting &#93642DHelix Fossil&r in a restoration machine !"]
+	quest.273FD269DFCF1BA2.title: "Revive Omanyte !"
+	quest.2816FB2751FADB21.quest_desc: [
+		"Defeat Gardenia in Battle to get the &2F&ro&2r&re&2s&rt Badge !"
+		""
+		"Gardenia’s &#386A48Grass-type&r Pokémon are rooted in nature’s power. Outsmart her tactics and grow stronger with each move !"
+	]
+	quest.2816FB2751FADB21.quest_subtitle: "Defeat Gardenia in Battle !"
+	quest.2816FB2751FADB21.title: "&2F&ro&2r&re&2s&rt Badge (Gardenia) !"
+	quest.285042710E3529BB.title: "Make A Restoration Machine !"
+	quest.28A144564FF14030.quest_desc: ["Use Pokeballs to catch new Pokémon!"]
+	quest.28A144564FF14030.quest_subtitle: "Catch 50% of the Pokédex"
+	quest.28A144564FF14030.title: "Half a Living Dex"
+	quest.28B4EA300E76B3D3.quest_desc: ["Use the Pokédex Scan function to Register Pokémon."]
+	quest.28B4EA300E76B3D3.quest_subtitle: "Register 90% of the Pokédex!"
+	quest.28B4EA300E76B3D3.title: "Master of Discovery"
+	quest.28C4C6BEB823747E.quest_desc: [
+		"Defeat Lorelei in Battle to advance through the Elite Four of Kanto !"
+		""
+		"Calm, focused, and colder than &bIce&r itself. Lorelei’s chill tests not just your strength — but your endurance. Melt her frozen resolve and show that warmth of spirit can break any frost!"
+	]
+	quest.28C4C6BEB823747E.quest_subtitle: "Defeat Lorelei in Battle !"
+	quest.28C4C6BEB823747E.title: "Kanto First Elite !"
+	quest.29074FC53C1A4A89.quest_desc: [
+		"Makes the &lfirst &rPokémon in your party &oShiny."
+		""
+		"Make sure that the desired Pokémon is on your first party slot."
+	]
+	quest.29074FC53C1A4A89.quest_subtitle: "1024x Relic Coins"
+	quest.29074FC53C1A4A89.title: "Shine on you Crazy Diamond"
+	quest.2977241474116251.quest_desc: [
+		"Defeat Lt. Surge in Battle to get the &#FFC84EThu&r&#FF6142nder&r badge !"
+		""
+		"Lt. Surge channels &#FFD861Lightning&r like a weapon. Keep your feet on solid ground and show that true power doesn’t always come from voltage alone"
+	]
+	quest.2977241474116251.quest_subtitle: "Defeat Lt. Surge in Battle !"
+	quest.2977241474116251.title: "&#FFC84EThu&r&#FF6142nder&r Badge (Lt. Surge) !"
+	quest.2A13BBA8B0CB64C7.quest_desc: [
+		"Defeat Bruno in Battle to advance through the Elite Four of Kanto !"
+		""
+		"Power is nothing without discipline. Bruno’s &#FF050AFighting&r strength shakes the earth, but only those with balance in mind and body can withstand his might. Stand firm — and strike true!"
+	]
+	quest.2A13BBA8B0CB64C7.quest_subtitle: "Defeat Bruno in Battle !"
+	quest.2A13BBA8B0CB64C7.title: "Kanto Second Elite !"
+	quest.2A3C737A6FADD814.quest_desc: [
+		"Defeat Clair in Battle to get the &4R&r&#010E40ising&r Badge !"
+		""
+		"Sandra commands &#0337FFDragon-types&r with unmatched pride and ferocity. Face her ancient power head-on and show that you have the heart of a true Dragon Master !"
+	]
+	quest.2A3C737A6FADD814.quest_subtitle: "Defeat Sandra in Battle !"
+	quest.2A3C737A6FADD814.title: "&4R&r&#010E40ising&r Badge (Sandra) !"
+	quest.2ACF5CDFD9CBEFB9.quest_desc: [""]
+	quest.2ACF5CDFD9CBEFB9.quest_subtitle: "Craft Archie's Anchor, then right click to equip !"
+	quest.2ACF5CDFD9CBEFB9.title: "Craft Archie's Anchor !"
+	quest.2BF4734A387A9AAC.quest_desc: ["Use the Pokédex Scan function to Register Pokémon."]
+	quest.2BF4734A387A9AAC.quest_subtitle: "Register 100% of the Pokédex!"
+	quest.2BF4734A387A9AAC.title: "Living Pokédex"
+	quest.2BF6DD924F845A8E.quest_desc: [
+		"Defeat Bianca in Battle to get the I&bc&ri&bc&rl&be&r Badge !"
+		""
+		"Bianca’s &bIce-type&r Pokémon chill the battlefield with precision. Warm up your strategy and break through the frost !"
+	]
+	quest.2BF6DD924F845A8E.quest_subtitle: "Defeat Bianca in Battle !"
+	quest.2BF6DD924F845A8E.title: "I&bc&ri&bc&rl&be&r Badge (Bianca) !"
+	quest.2CA4B6D2F3014C50.quest_desc: ["Collect all Cobblemon &#CAFF63Plants&r to unlock this reward !"]
+	quest.2CA4B6D2F3014C50.title: "Gotta Plant 'em All !"
+	quest.2CBFED1D6E7BABCA.title: "Strange Sightings"
+	quest.2D547F08DB303F02.quest_subtitle: "Catch the Legendary Regirock !"
+	quest.2D547F08DB303F02.title: "Regirock !"
+	quest.2D8B2A8806CCDB1F.quest_subtitle: "Use the Catalogue on Rotom to transform into any form !"
+	quest.2D8B2A8806CCDB1F.title: "Use the Catalogue on Rotom !"
+	quest.2DE259C0F3243EB7.quest_desc: [
+		"Defeat Tell \\& Pat in Battle to get the &#FF85F6M&r&#8F316Bin&r&#FDFF67d&r Badge !"
+		""
+		"The &#8F316BPsychic&r duo’s powers challenge both mind and strategy. Outsmart them to prove your mental strength ! "
+	]
+	quest.2DE259C0F3243EB7.quest_subtitle: "Defeat Tell \\& Pat in Battle !"
+	quest.2DE259C0F3243EB7.title: "&#FF85F6M&r&#8F316Bin&r&#FDFF67d&r Badge (Tell \\& Pat) !"
+	quest.2DF072496463D373.quest_subtitle: "Catch the Legendary Shiny Kyogre!"
+	quest.2DF072496463D373.title: "Shiny Kyogre!"
+	quest.2E580198824C360B.quest_subtitle: "No"
+	quest.2E580198824C360B.title: "Keep Inventory after Death?"
+	quest.2E8CDA3C20EB9809.title: "Catch Solgaleo !"
+	quest.2ECDCAFC38B1B39D.quest_desc: [""]
+	quest.2ECDCAFC38B1B39D.quest_subtitle: "Craft Brendan's Mega Cuff, then right click to equip !"
+	quest.2ECDCAFC38B1B39D.title: "Craft Brendan's Mega Cuff !"
+	quest.2F2D46FF0813472E.quest_desc: [""]
+	quest.2F2D46FF0813472E.quest_subtitle: "Craft a Dynamax Band, then right click to equip !"
+	quest.2F2D46FF0813472E.title: "Craft a Dynamax Band !"
+	quest.30648FE7AFDF949B.quest_subtitle: "Catch the Legendary Shiny Rayquaza!"
+	quest.30648FE7AFDF949B.title: "Shiny Rayquaza!"
+	quest.30968294F1D8DC44.title: "Craft a Golden PokéNav !"
+	quest.30EC943C398AD3D4.quest_subtitle: "Collect and Craft these Items to craft PokéNav !"
+	quest.30EC943C398AD3D4.title: "Collect crafting items !"
+	quest.30F9E05BD7CB7F1B.quest_desc: [
+		"Defeat Fannie in Battle to get the &#B57FFFR&r&#979797eli&r&#B57FFFc&r Badge !"
+		""
+		"Fannie’s &9Ghost-type&r Pokémon haunt the battlefield with cunning. Face the shadows and prove your courage !"
+	]
+	quest.30F9E05BD7CB7F1B.quest_subtitle: "Defeat Fannie in Battle !"
+	quest.30F9E05BD7CB7F1B.title: "&#B57FFFR&r&#979797eli&r&#B57FFFc&r Badge (Fannie) !"
+	quest.31C2D7401DB80B93.title: "Cursed Enchanting"
+	quest.32EB64ED2BE6760A.quest_desc: ["Has drop rate of 10% !"]
+	quest.32EB64ED2BE6760A.quest_subtitle: "Obtained by defeating a Psychic-type Pokémon !"
+	quest.32FB5CC9A6106BF0.title: "Find the Wish Cave !"
+	quest.333F585F874B36D2.quest_desc: ["Found in Bamboo, Mountain, or Taiga Biomes !"]
+	quest.333F585F874B36D2.quest_subtitle: "Found in Bamboo, Mountain, or Taiga Biomes !"
+	quest.335402653A555691.quest_desc: [
+		"1. Right‑click Reshiram with the DNA Splicers to charge it."
+		""
+		"2. Right‑click Kyurem with the charged Splicers to transform into White Kyurem."
+		""
+		"(You can &nundo&r the fusion by right-click White Kyurem with DNA Splicer) !"
+	]
+	quest.335402653A555691.quest_subtitle: "Read the description for details !"
+	quest.335402653A555691.title: "How to get White Kyurem Fusion !"
+	quest.338CAF0A4F898F95.title: "Make Max Honey !"
+	quest.33EEC20142FBF5E8.quest_desc: [
+		"Defeat Rudi in Battle to get the &#46ABFFKnuc&r&#FF8E55kl&r&#FFD156e&r Badge !"
+		""
+		"Rudi’s &#FF050AFighting-type&r Pokémon hit hard and fast. Use your wits to outmaneuver him and claim victory !"
+	]
+	quest.33EEC20142FBF5E8.quest_subtitle: "Defeat Rudi in Battle !"
+	quest.33EEC20142FBF5E8.title: "&#46ABFFKnuc&r&#FF8E55kl&r&#FFD156e&r Badge (Rudi) !"
+	quest.34144BB3D56283D4.quest_desc: ["Found in Dripstone, Lush, Spooky, Swamp, or Taiga Biomes !"]
+	quest.34144BB3D56283D4.quest_subtitle: "Found in Dripstone, Lush, Spooky, Swamp, or Taiga Biomes !"
+	quest.34ED97CB94A2C48E.quest_desc: ["Press M (or the key you’ve set for “Throw Selected Pokémon”) to choose your first &#1772FFP&r&#FFC534o&r&#FFC534k&r&#FFC534é&r&#FFC534m&r&#FFC534o&r&#1772FFn&r !"]
+	quest.34ED97CB94A2C48E.quest_subtitle: "Choose your first Pokémon !"
+	quest.34ED97CB94A2C48E.title: "Chose a Starter !"
+	quest.35D7BD22E3177EB9.quest_desc: ["Collect all &2Evolving Items&r to get the Master Ball !"]
+	quest.35D7BD22E3177EB9.quest_subtitle: "Collect all Evolving Items !"
+	quest.36109828F2075464.title: "Cursed Enchanting"
+	quest.3638994A7F17AFED.quest_desc: [
+		"Defeat Adriano in Battle to get the &#0560FFR&r&#66A9FFain&r Badge !"
+		""
+		"Adriano’s &#66A9FFWater-type&r Pokémon flow with force and precision. Navigate the tides of battle to secure your victory !"
+	]
+	quest.3638994A7F17AFED.quest_subtitle: "Defeat Adriano in Battle !"
+	quest.3638994A7F17AFED.title: "&#0560FFR&r&#66A9FFain&r Badge (Adriano) !"
+	quest.36EC820F59C17B93.quest_desc: ["Right-Click with the full urn to summon Articuno and prepare to battle!"]
+	quest.36EC820F59C17B93.quest_subtitle: "Summon Articuno!"
+	quest.36EC820F59C17B93.title: "Articuno!"
+	quest.36EFDB701FDBBDA8.quest_desc: ["Break Mega Crystal to get a raw Mega Stone !"]
+	quest.36EFDB701FDBBDA8.quest_subtitle: "Break Mega Crystal to get a raw Mega Stone !"
+	quest.36EFDB701FDBBDA8.title: "Mega Stone !"
+	quest.371AC9855026DC52.quest_desc: [
+		"Defeat Walter in Battle to get the &#5EFFD1Dyn&r&#FFDE43amo&r Badge !"
+		""
+		"Walter’s &#FFD861Electric-type&r Pokémon strike with shocking speed. Stay alert and strike at the right moment !"
+	]
+	quest.371AC9855026DC52.quest_subtitle: "Defeat Walter in Battle !"
+	quest.371AC9855026DC52.title: "&#5EFFD1Dyn&r&#FFDE43amo&r Badge (Walter) !"
+	quest.372E0C9F6FA9F616.quest_desc: [""]
+	quest.372E0C9F6FA9F616.quest_subtitle: "Used to store, take out, and organize your Pokémon when your party is full !"
+	quest.372E0C9F6FA9F616.title: "Craft a PC !"
+	quest.3735B0EF06CACBA5.quest_subtitle: "Evolve Eevee using a Fire Stone !"
+	quest.3735B0EF06CACBA5.title: "Flareon !"
+	quest.37725F6965E6AF58.quest_desc: ["Use the Pokédex Scan function to Register Pokémon."]
+	quest.37725F6965E6AF58.quest_subtitle: "Register 40% of the Pokédex!"
+	quest.37725F6965E6AF58.title: "Halfway there... Almost"
+	quest.37C314264039C307.quest_desc: [
+		"Defeat Bruno in Battle to advance through the Elite Four of Johto !"
+		""
+		"Bruno’s strength is forged in relentless discipline. Face his &#FF050AFighting-types&r head-on and prove that determination can strike harder than any fist!"
+	]
+	quest.37C314264039C307.quest_subtitle: "Defeat Bruno in Battle !"
+	quest.37C314264039C307.title: "Johto Third Elite !"
+	quest.37F5CF8EDA533F25.quest_desc: ["Use the Pokédex Scan function to Register Pokémon."]
+	quest.37F5CF8EDA533F25.quest_subtitle: "Register 50% of the Pokédex!"
+	quest.37F5CF8EDA533F25.title: "A Researcher's Resolve"
+	quest.382C44153E94B2B3.quest_desc: ["Revive by inserting &#AFB8FFJaw Fossil&r in a restoration machine !"]
+	quest.382C44153E94B2B3.title: "Revive Tyrunt !"
+	quest.38A5DC525C3E058B.title: "Find a Megaroid !"
+	quest.3914EBF6677C4087.quest_desc: [
+		"Defeat Agatha in Battle to advance through the Elite Four of Kanto !"
+		""
+		"Agatha commands shadows older than time. Face her &9Ghostly&r trials and prove that courage is the only light that never fades in darkness!"
+	]
+	quest.3914EBF6677C4087.quest_subtitle: "Defeat Agatha in Battle !"
+	quest.3914EBF6677C4087.title: "Kanto Third Elite !"
+	quest.3988D3D04D4D8C1C.quest_subtitle: "Used to fuse Kyurem with Zekrom or Reshiram !"
+	quest.3988D3D04D4D8C1C.title: "Craft DNA Splicers !"
+	quest.39B1CF061B735BA7.quest_desc: [
+		"Defeat Jasmine in Battle to get the M&#7FA6FFinera&rl Badge !"
+		""
+		"Jasmine’s &#565D70Steel-types&r shine with quiet strength and unshakable defense. Break through her iron resolve with courage and show that even metal can bend before true heart !"
+	]
+	quest.39B1CF061B735BA7.quest_subtitle: "Defeat Jasmine in Battle !"
+	quest.39B1CF061B735BA7.title: "M&#7FA6FFinera&rl Badge (Jasmine) !"
+	quest.3A3EF6A3704F2057.quest_desc: ["Use 50 Shard by left-clicking on a Pokémon to change its Tera Type base on Shards type used !"]
+	quest.3A3EF6A3704F2057.quest_subtitle: "Use 50 Shard to change Pokémon Tera Type base on used shard's type !"
+	quest.3A3EF6A3704F2057.title: "Change a Pokémon Tera Type !"
+	quest.3A5DDBE47841AD25.quest_desc: [""]
+	quest.3A5DDBE47841AD25.quest_subtitle: "Found in Lush Caves !"
+	quest.3A5DDBE47841AD25.title: "Find Max Mushroom !"
+	quest.3AABAE3F1725ED6A.quest_desc: ["Has drop rate of 10% !"]
+	quest.3AABAE3F1725ED6A.quest_subtitle: "Obtained by defeating a Fighting-type Pokémon !"
+	quest.3ADC0E6772867AE0.quest_desc: [
+		"Defeat Ester in Battle to advance through the Elite Four of Heonn !"
+		""
+		"Ester’s &9Ghost&r Pokémon are elusive and tricky. Stay focused and anticipate her moves to claim victory!"
+	]
+	quest.3ADC0E6772867AE0.quest_subtitle: "Defeat Ester in Battle !"
+	quest.3ADC0E6772867AE0.title: "Hoenn Second Elite !"
+	quest.3B70D69D18D32890.quest_desc: ["Use the Pokédex Scan function to Register Pokémon."]
+	quest.3B70D69D18D32890.quest_subtitle: "Register 70% of the Pokédex!"
+	quest.3B70D69D18D32890.title: "Natural Born Observer"
+	quest.3C0D97EB9FF73C9B.quest_desc: ["Right-Click with the full urn to summon Moltres and prepare to battle!"]
+	quest.3C0D97EB9FF73C9B.quest_subtitle: "Summon Moltres!"
+	quest.3C0D97EB9FF73C9B.title: "Moltres!"
+	quest.3C38E3482344D27A.quest_desc: ["Revive by inserting &#FF8920Old Amber&r in a restoration machine !"]
+	quest.3C38E3482344D27A.title: "Revive Aerodactyle !"
+	quest.3C5CFFEFA814D04D.quest_desc: ["Revive by inserting &6Fosslized Bird&r and &#A0FF4AFosslized Drake&r in a restoration machine !"]
+	quest.3C5CFFEFA814D04D.title: "Revive Dracozolt !"
+	quest.3D1F9AC747146ACD.quest_desc: ["Revive by inserting &#FF9F4ADome Fossil&r in a restoration machine !"]
+	quest.3D1F9AC747146ACD.title: "Revive Kabuto !"
+	quest.3D2093FE7CC91D7F.quest_desc: ["Found in Forest Biome !"]
+	quest.3D2093FE7CC91D7F.quest_subtitle: "Found in Forest Biome !"
+	quest.3D7A81D94BF8F839.quest_subtitle: "Summon Jirachi by using Melodic Tape (Vol.1) on Jirachi Shrine !"
+	quest.3D7A81D94BF8F839.title: "Summon Jirachi \\& Catch it !"
+	quest.3DA516690D897EA2.quest_desc: ["Use Pokeballs to catch new Pokémon!"]
+	quest.3DA516690D897EA2.quest_subtitle: "Catch 40% of the Pokédex"
+	quest.3DA516690D897EA2.title: "Filling the Fields"
+	quest.3E6E1E380560209B.quest_desc: ["Revive by inserting &#DFFF57Root Fossil&r in a restoration machine !"]
+	quest.3E6E1E380560209B.title: "Revive Lileep !"
+	quest.3E87F3E2327574AA.quest_desc: ["Found in Jungle, Sandy, Thermal, or Volcanic Biomes !"]
+	quest.3E87F3E2327574AA.quest_subtitle: "Found in Jungle, Sandy, Thermal, or Volcanic Biomes !"
+	quest.3E8F71EBCC332087.quest_desc: ["Collect all &#FF050FPoké&r Balls to get the Master Ball !"]
+	quest.3E8F71EBCC332087.quest_subtitle: "Collect all Poké Balls !"
+	quest.3E8F71EBCC332087.title: "You got Balls Kid !"
+	quest.3EA045F31152B159.quest_desc: [
+		"Defeat Pedro in Battle to get the &#583011C&ro&#583011a&rl Badge !"
+		""
+		"Pedro’s &#FFC8A9Rock-type&r Pokémon stand as solid as the peaks themselves. Crack their defenses with strategy and prove your strength !"
+	]
+	quest.3EA045F31152B159.quest_subtitle: "Defeat Pedro in Battle !"
+	quest.3EA045F31152B159.title: "&#583011C&ro&#583011a&rl Badge (Pedro) !"
+	quest.3F1738FC061C4D93.title: "Evolve into Greninja !"
+	quest.3F3D6090AC478ADF.quest_desc: ["Found in Jungle, Temperate, or Lush Biomes !"]
+	quest.3F3D6090AC478ADF.quest_subtitle: "Found in Jungle, Temperate, or Lush Biomes !"
+	quest.3FECD45A6A5760AC.title: "Collect 50 of any Tera shard type !"
+	quest.41A60905C10A54BB.quest_desc: ["Use Pokeballs to catch new Pokémon!"]
+	quest.41A60905C10A54BB.quest_subtitle: "Catch 80% of the Pokédex"
+	quest.41A60905C10A54BB.title: "One of Everything"
+	quest.41FEBD15C7808768.quest_desc: ["Found in a Desert Pyramid by using a brush on Suspicious Sand or Gravel !"]
+	quest.41FEBD15C7808768.quest_subtitle: "Found in a Desert Pyramid by using a brush on Suspicious Sand or Gravel !"
+	quest.4248FFB81408706C.quest_desc: [
+		"Congrats on beating Kanto’s Champion!"
+		""
+		"Your next challenge is the Johto Gyms. Defeat all 8 Leaders and collect their Badges."
+		""
+		"Please restart the game to spawn &#106CFFJohto&r Gyms."
+		"(Sorry, that’s just how the modpack works!)"
+	]
+	quest.4248FFB81408706C.title: "Johto Gyms !"
+	quest.42554D80C823C7FE.quest_desc: [
+		"1. Right Click Greninja with ash's cap."
+		""
+		"2. In battle: Greninja will transform after defeating a Pokemon !"
+	]
+	quest.42554D80C823C7FE.title: "Ash Greninja !"
+	quest.428065F9206DA3E9.title: "Trade 100 Coin for 100 PokéDollar !"
+	quest.42D1FF7788C331F6.quest_desc: ["Revive by inserting &#8385FFCover Fossil&r in a restoration machine !"]
+	quest.42D1FF7788C331F6.title: "Revive Titrouga !"
+	quest.42DDC70A4D6179FD.quest_desc: ["Craft a Z-ring, then right click to equip !"]
+	quest.42F2A7BB476EB34E.quest_desc: [
+		"Defeat Aaron in Battle to advance through the Elite Four of Sinnoh !"
+		""
+		"Aaron’s &#719D4BBug&r Pokémon strike fast and overwhelm with relentless pressure. Face his swarm with focus and rise above his challenge!"
+	]
+	quest.42F2A7BB476EB34E.quest_subtitle: "Defeat Aaron in Battle !"
+	quest.42F2A7BB476EB34E.title: "Sinnoh First Elite !"
+	quest.42F5F26E94AF2E70.title: "Trade 10 Coin for 100 PokéDollar !"
+	quest.430BED5C1DBABF11.quest_desc: [
+		"Defeat Lance in Battle to claim the title of \"&#034DFFMaster of &r&#FFC260the&r &#034DFFTwin Regions&r\" !"
+		""
+		"Lance commands the skies with the might of &#0337FFDragons&r and the soul of a hero. Face his soaring power without fear — and rise as the new legend of Johto!"
+	]
+	quest.430BED5C1DBABF11.quest_subtitle: "Defeat Lance in Battle !"
+	quest.430BED5C1DBABF11.title: "&#034DFFChamp&r&#FFC260ion&r &#034DFFLance&r !"
+	quest.43159FB0F46A2C56.quest_subtitle: "No"
+	quest.43159FB0F46A2C56.title: "Spawn Hostile Mobs?"
+	quest.4341B175E0DE3908.title: "Buy a Master Ball !"
+	quest.439031E526E3FF10.quest_desc: ["Found in All Biomes !"]
+	quest.439031E526E3FF10.quest_subtitle: "Found in All Biomes !"
+	quest.43CD16A376EBA017.quest_desc: [
+		"Defeat Pino in Battle to advance through the Elite Four of Johto !"
+		""
+		"Pino’s &#8F316BPsychic-types&r twist reality and perception alike. Keep your mind clear, see through his illusions, and prove that true power comes from unshakable focus!"
+	]
+	quest.43CD16A376EBA017.quest_subtitle: "Defeat Pino in Battle !"
+	quest.43CD16A376EBA017.title: "Johto First Elite !"
+	quest.4460725CBBAE0DF2.quest_subtitle: "Track Marshadow"
+	quest.4460725CBBAE0DF2.title: "The Shadow that Watches"
+	quest.44756E38D55AFF0B.title: "Catch a Froakie !"
+	quest.44CC5118488007D4.quest_subtitle: "Yes"
+	quest.44CC5118488007D4.title: "Spawn Hostile Mobs?"
+	quest.44FD24EC72184047.quest_desc: [""]
+	quest.44FD24EC72184047.quest_subtitle: "Craft Korrian's Gloves, then right click to equip !"
+	quest.44FD24EC72184047.title: "Craft Korrian's Gloves !"
+	quest.45520BABAFFF5E83.quest_desc: [
+		"Defeat Misty in Battle to get the &#6197FFCascade&r badge !"
+		""
+		"Misty commands the tides with calm precision. Adapt like &#66A9FFWater — Flow&r around her defenses and strike when the current is in your favor!"
+	]
+	quest.45520BABAFFF5E83.quest_subtitle: "Defeat Misty in Battle !"
+	quest.45520BABAFFF5E83.title: "&#6197FFCascade&r Badge (Misty) !"
+	quest.45834ACBBC0E0FD9.quest_subtitle: "Collect by breaking Blue Mint plant !"
+	quest.461FEAD980E1F9CA.quest_subtitle: "Hard"
+	quest.461FEAD980E1F9CA.title: "Choose your Difficulty"
+	quest.463E582C12C27986.title: "Catch a Rotom !"
+	quest.464EDB98C6B02B41.quest_desc: ["Find the Final Island (Mew Temple)!"]
+	quest.464EDB98C6B02B41.quest_subtitle: "Explore!"
+	quest.464EDB98C6B02B41.title: "Find the Final Island"
+	quest.46AF61850A606112.title: "Catch Eevee !"
+	quest.47919B89016A46AE.quest_subtitle: "Collect by breaking White Mint plant !"
+	quest.4794402E0455A8F5.quest_desc: ["Has drop rate of 10% !"]
+	quest.4794402E0455A8F5.quest_subtitle: "Obtained by defeating a Normal-type Pokémon !"
+	quest.47F40A14BF09BD12.quest_subtitle: "Catch the Legendary Lugia !"
+	quest.47F40A14BF09BD12.title: "Lugia !"
+	quest.4874494DF630F862.quest_desc: [
+		"1. Right‑click Spectrier with the Reins of Unity to charge it."
+		""
+		"2. Right‑click Calyrex with charged the Reins of Unity to become Shadow Rider Calyrex."
+		""
+		"(You can &nundo&r the fusion by right-click Shadow Rider Calyrex with Reins of Unity) !"
+	]
+	quest.4874494DF630F862.quest_subtitle: "Read the description for details !"
+	quest.4874494DF630F862.title: "How to get Shadow Rider Calyrex Fusion !"
+	quest.48754C845085257D.quest_desc: ["Break Keystone Ore to get a Keystone !"]
+	quest.48754C845085257D.quest_subtitle: "Break Keystone Ore to get a Keystone !"
+	quest.48754C845085257D.title: "Keystone !"
+	quest.48B2DFD9162C3F5C.quest_subtitle: "Catch the Shiny Legendary Latias !"
+	quest.48B2DFD9162C3F5C.title: "Shiny Latias !"
+	quest.49B0732D27567A51.quest_desc: ["Found in Mountain, Bamboo, or Taiga Biomes !"]
+	quest.49B0732D27567A51.quest_subtitle: "Found in Mountain, Bamboo, or Taiga Biomes !"
+	quest.4A4AD38C0AACA676.quest_desc: ["Revive by inserting &#A0FF4AFosslized Drake&r and &#3AA5FFFosslized Fish&r in a restoration machine !"]
+	quest.4A4AD38C0AACA676.title: "Revive Dracovish !"
+	quest.4A75D2279DAFF7EF.quest_desc: ["Found in Plains Biome !"]
+	quest.4A75D2279DAFF7EF.quest_subtitle: "Found in Plains Biome !"
+	quest.4A9BA1BBF7480DBC.quest_desc: [
+		"By left-clicking Scroll of Water on Kubfu, you can evolve it into Single Strike Style (Fighting/Dark) ! "
+		""
+		"Has a unqiue Gigantamax Form !"
+	]
+	quest.4A9BA1BBF7480DBC.title: "Evolve Kubfo into Single Strike Style Urshifu !"
+	quest.4B61EF60B5526554.quest_desc: ["Has drop rate of 10% !"]
+	quest.4B61EF60B5526554.quest_subtitle: "Obtained by defeating a Bug-type Pokémon !"
+	quest.4B9985FE32E37675.quest_subtitle: "Used to fuse Clayrex with Spectrier or Glastrier !"
+	quest.4B9985FE32E37675.title: "Craft Reins of Unity !"
+	quest.4BA05B905DCF0450.quest_desc: [
+		"Defeat Drake in Battle to battle the Champion of Hoenn !"
+		""
+		"Drake’s &#0337FFDragon&r Pokémon are powerful and fierce. Only careful planning and strong tactics can bring them down!"
+	]
+	quest.4BA05B905DCF0450.quest_subtitle: "Defeat Drake in Battle !"
+	quest.4BA05B905DCF0450.title: "Hoenn Fourth Elite !"
+	quest.4BE04A7A614929A6.quest_desc: ["&oDon't forget to stock on Poké Balls, you'll only have one chance to get &lYveltal"]
+	quest.4BE04A7A614929A6.quest_subtitle: "Track Yveltal"
+	quest.4BE04A7A614929A6.title: "Ruin of the Fallen Wing"
+	quest.4BF75902235D0E59.quest_desc: ["Right-Click with the full urn to summon Zapdos and prepare to battle!"]
+	quest.4BF75902235D0E59.quest_subtitle: "Summon Zapdos!"
+	quest.4BF75902235D0E59.title: "Zapdos!"
+	quest.4C2DFB9312C60300.quest_desc: [
+		"Defeat Chiara in Battle to get the P&#FFCC5Dlai&rn Badge !"
+		""
+		"Don’t be fooled by her charm — Chiara’s &#A3A1A5Normal-types&r pack an emotional punch! Stay steady, overcome the tears, and prove that true strength comes from composure !"
+	]
+	quest.4C2DFB9312C60300.quest_subtitle: "Defeat Chiara in Battle !"
+	quest.4C2DFB9312C60300.title: "P&#FFCC5Dlai&rn Badge (Chiara) !"
+	quest.4E39214A94701EEF.quest_subtitle: "Found in the wilds. Collect Apricorns and Apricorn Sprouts !"
+	quest.4E408AE113A7879B.quest_desc: [
+		"1. Equip one of the Z-Rings by right clicking while item on right hand."
+		""
+		"1. The Pokémon must be holding its respective Mega Stone in the Holding Items slot. With the Mega Stone in your right hand, Shift + Right-click and choose “Change Holding Item.”"
+		""
+		"2. In battle: Click the Mega Evolution button, then choose any move."
+		""
+		"3. Outside of battle: Press your Mega Evolve keybinding.."
+	]
+	quest.4E408AE113A7879B.quest_subtitle: "Read the description for details !"
+	quest.4E408AE113A7879B.title: "How to Mega Evolve ?"
+	quest.4EB0F4E451270A2A.quest_subtitle: "Can be used on all Mega Showdown Evolutions and Z-Moves !"
+	quest.4EB0F4E451270A2A.title: "Craft an Omni Ring !"
+	quest.4F8B993E55749CC1.quest_desc: [""]
+	quest.4F8B993E55749CC1.title: "Catch your first Pokémon !"
+	quest.4FDD467AF4AC2154.title: "Trade 3 Diamond for 1 Coins !"
+	quest.508536B54BEC5056.quest_desc: ["Found in Grassland, Hills, or Sky Biomes !"]
+	quest.508536B54BEC5056.quest_subtitle: "Found in Grassland, Hills, or Sky Biomes !"
+	quest.513D1EA39F625B99.quest_subtitle: "Catch the Legendary Rayquaza!"
+	quest.513D1EA39F625B99.title: "Rayquaza!"
+	quest.5171CAB9596EF011.quest_subtitle: "Use a brush on Suspicious Sand to get a light Sparkling Stone !"
+	quest.51BF615744006CFC.quest_desc: ["Collect all &#034DFFBerries&r to get the Master Ball !"]
+	quest.51BF615744006CFC.quest_subtitle: "Collect all Berries !"
+	quest.52180AF0EEE21ADA.quest_desc: ["Right-Click with the full urn to summon Zapdos and prepare to battle!"]
+	quest.52180AF0EEE21ADA.quest_subtitle: "Summon Zapdos!"
+	quest.52180AF0EEE21ADA.title: "Shiny Zapdos!"
+	quest.522A0E8194BDDC7A.quest_subtitle: "See Dynamax page on how to get !"
+	quest.52E771715C3A8FA4.quest_desc: [
+		"Defeat Norman in Battle to get the &#AEA7FFB&r&#A3A1A5alanc&r&#AEA7FFe&r Badge !"
+		""
+		"Norman’s &#A3A1A5Normal-types&r Pokémon are versatile and unpredictable. Adapt your tactics to overcome his balance of power ! "
+	]
+	quest.52E771715C3A8FA4.quest_subtitle: "Defeat Norman in Battle !"
+	quest.52E771715C3A8FA4.title: "&#AEA7FFB&r&#A3A1A5alanc&r&#AEA7FFe&r Badge (Norman) !"
+	quest.53187A1CDF392AA2.quest_desc: ["Found in Mountain Biome !"]
+	quest.53187A1CDF392AA2.quest_subtitle: "Found in Mountain Biome !"
+	quest.534FBD7084B569D1.quest_desc: [
+		"Defeat Luciano in Battle to battle the Champion of Sinnoh !"
+		""
+		"Luciano’s &#8F316BPsychic&r Pokémon test both mind and resolve. Stay sharp, read his moves, and overcome his mental mastery!"
+	]
+	quest.534FBD7084B569D1.quest_subtitle: "Defeat Luciano in Battle !"
+	quest.534FBD7084B569D1.title: "Sinnoh Fourth Elite !"
+	quest.537A1965CC433D0C.quest_desc: ["Right-Click with the full urn to summon Articuno and prepare to battle!"]
+	quest.537A1965CC433D0C.quest_subtitle: "Summon Articuno!"
+	quest.537A1965CC433D0C.title: "Shiny Articuno!"
+	quest.54612F2E44423D9F.quest_desc: [
+		"Defeat Fosco in Battle to advance through the Elite Four of Heonn !"
+		""
+		"Fosco’s &#0F1218Dark&r Pokémon strike from the shadows, testing your strategy and resolve. Shine a light on his tactics to overcome him!"
+	]
+	quest.54612F2E44423D9F.quest_subtitle: "Defeat Fosco in Battle !"
+	quest.54612F2E44423D9F.title: "Hoenn First Elite !"
+	quest.547A2ABE6F1A5655.title: "Catch Spectrier !"
+	quest.54CAE124E890F3F7.quest_subtitle: "Used to transform Rotom into Mow form !"
+	quest.54CAE124E890F3F7.title: "Craft a Mow Unit !"
+	quest.55611D173EDCC1A0.quest_subtitle: "256x Relic Coins"
+	quest.55611D173EDCC1A0.title: "Mega Stone"
+	quest.556733907AEC013F.quest_subtitle: "Used to fuse Necrozma with Lunala !"
+	quest.556733907AEC013F.title: "Craft N Lunarizer !"
+	quest.55CA6B69314C17AA.title: "Find an Observatory !"
+	quest.560AC5F538588BE3.quest_subtitle: "Catch the Shiny Legendary Latios !"
+	quest.560AC5F538588BE3.title: "Shiny Latios !"
+	quest.56765A55E1776820.quest_desc: ["Obtain the Old Sea Map from a Jungle Temple!"]
+	quest.56765A55E1776820.quest_subtitle: "Find the Old Sea Map!"
+	quest.56A043B7319652D2.quest_desc: ["Unlocks Questbook Chapters"]
+	quest.56A043B7319652D2.quest_subtitle: "Start the Modpack"
+	quest.56BA323EBC322347.quest_subtitle: "Used as part of the PokéNav crafting recipe !"
+	quest.56BA323EBC322347.title: "Find an Old PokéNav !"
+	quest.57482A59E7B70BA5.quest_desc: [
+		"Defeat Brock in Battle to get the &#A1A1A1Boulder&r badge !"
+		""
+		"Brock stands as firm as the mountains themselves. Break through his &#FFC8A9Rock-Hard&r defense and prove that even the toughest walls can crumble under your strength!"
+	]
+	quest.57482A59E7B70BA5.quest_subtitle: "Defeat Brock in Battle !"
+	quest.57482A59E7B70BA5.title: "&#A1A1A1Boulder&r Badge (Brock) !"
+	quest.5789AC3E0FEC0716.quest_desc: ["Found in Arid or Grassland Biomes !"]
+	quest.5789AC3E0FEC0716.quest_subtitle: "Found in Arid or Grassland Biomes !"
+	quest.57A9EC6A63B26566.quest_desc: [
+		"Defeat Rocco in Battle to claim the title of \"&6Hoenn's&r &4Ulti&r&0m&rate &8Master&r\" !"
+		""
+		"Rocco’s &#565D70Steel&r Pokémon are strong and unyielding. Face his iron-clad might without fear — and overcome him to prove your true skill!"
+	]
+	quest.57A9EC6A63B26566.quest_subtitle: "Defeat Rocco in Battle !"
+	quest.57A9EC6A63B26566.title: "Champion Rocco !"
+	quest.582A86BC367CEF90.quest_desc: ["Revive by inserting &#52AB93Sail Fossil&r in a restoration machine !"]
+	quest.582A86BC367CEF90.title: "Revive Amaura !"
+	quest.584D4527EEF8592B.quest_desc: ["Use the Pokédex Scan function to Register Pokémon."]
+	quest.584D4527EEF8592B.quest_subtitle: "Register 30% of the Pokédex!"
+	quest.584D4527EEF8592B.title: "Trailblazer"
+	quest.58E03661928EFB7C.quest_subtitle: "Face against the Legendary Yveltal"
+	quest.58E03661928EFB7C.title: "Face the Raven"
+	quest.58F20AC1A8B261E9.quest_desc: ["Use Pokeballs to catch new Pokémon!"]
+	quest.58F20AC1A8B261E9.quest_subtitle: "Catch 30% of the Pokédex"
+	quest.58F20AC1A8B261E9.title: "Rounding up the Roster"
+	quest.590FE492158D2A37.quest_desc: [
+		"Defeat Fiammetta in Battle to get the &#FFC16AH&r&ceat&r Badge !"
+		""
+		"Fiammetta’s &#FF7749Fire-type&r Pokémon burn with intensity. Cool your strategy and blaze through her team !"
+	]
+	quest.590FE492158D2A37.quest_subtitle: "Defeat Fiammetta in Battle !"
+	quest.590FE492158D2A37.title: "&#FFC16AH&r&ceat&r Badge (Fiammetta) !"
+	quest.5949CA954F1F4FD8.quest_desc: ["Found in Temperate or Grassland Biomes !"]
+	quest.5949CA954F1F4FD8.quest_subtitle: "Found in Temperate or Grassland Biomes !"
+	quest.59938E5EE6D4EB45.quest_subtitle: "Found in the wilds. Collect Apricorns and Apricorn Sprouts !"
+	quest.599FEE353E8E4EC1.title: "Dynamax a Pokémon !"
+	quest.59DB38DEE5C2338D.title: "Get a wanderer PokéNav !"
+	quest.5A7D0F68E3232932.quest_desc: ["Found in Forest, Jungle, or Swamp Biomes !"]
+	quest.5A7D0F68E3232932.quest_subtitle: "Found in Forest, Jungle, or Swamp Biomes !"
+	quest.5AC36993477AA2FA.title: "Use a Z-Move in Battle !"
+	quest.5ACBF606DD9F152F.quest_subtitle: "Summon a Shiny Jirachi by using Melodic Tape (Vol.1) on Jirachi Shrine !"
+	quest.5ACBF606DD9F152F.title: "Summon a Shiny Jirachi \\& Catch it !"
+	quest.5ADFF3B45FD11618.quest_desc: ["Has drop rate of 10% !"]
+	quest.5ADFF3B45FD11618.quest_subtitle: "Obtained by defeating an Electric-type Pokémon !"
+	quest.5AF972D699D42B92.quest_subtitle: "Catch the Legendary Shiny Groudon!"
+	quest.5AF972D699D42B92.title: "Shiny Groudon!"
+	quest.5B28856FBCFCA3B6.title: "Catch a kubfu !"
+	quest.5BC2F48F8260306E.quest_subtitle: "Used to fuse Necrozma with Solgaleo !"
+	quest.5BC2F48F8260306E.title: "Craft N Solarizer !"
+	quest.5BDC746EF37B78EB.quest_desc: ["Found in Forest Biome !"]
+	quest.5BDC746EF37B78EB.quest_subtitle: "Found in Forest Biome !"
+	quest.5C3A4DB41252390B.quest_desc: [
+		"Defeat Valerio in Battle to get the &#7AADFFZephyr&r Badge !"
+		""
+		"Valerio soars high with pride in his &#9AB6FFFlying-type&r Pokémon. Clip his wings with strategy and prove that no height is too great for your determination to reach !"
+	]
+	quest.5C3A4DB41252390B.quest_subtitle: "Defeat Valerio in Battle !"
+	quest.5C3A4DB41252390B.title: "&#7AADFFZephyr&r Badge (Valerio) !"
+	quest.5C5D6D9F056AC58C.quest_subtitle: "Catch the Legendary Deoxys !"
+	quest.5C5D6D9F056AC58C.title: "Deoxys !"
+	quest.5CE9A579D4BB2E14.quest_desc: [""]
+	quest.5CE9A579D4BB2E14.quest_subtitle: "Used to fully heal your Pokémon by placing them inside the machine !"
+	quest.5CE9A579D4BB2E14.title: "Craft a Healing Machine !"
+	quest.5D0BEDFEBD636975.title: "Catch Glastrier !"
+	quest.5D105B8B1B613103.quest_subtitle: "Summon Celebi by using the GS ball on the shrine !"
+	quest.5D105B8B1B613103.title: "Summon Celebi !"
+	quest.5D25CBBF0FC05003.quest_subtitle: "Hidden near the peak of Wish Cave !"
+	quest.5D25CBBF0FC05003.title: "Collect Melodic Tape (Vol.1) !"
+	quest.5DC9554891253A1C.quest_subtitle: "Collect by breaking Cyan Mint plant !"
+	quest.5DEDAD3D42CD6F5E.quest_subtitle: "Collect by breaking Green Mint plant !"
+	quest.5E2DCF4788367C5B.quest_desc: [
+		"feat Camilla in Battle to claim the title of \"&#FFA013The Queen's Gambit&r\" !"
+		""
+		"Camilla commands a powerful team of &zMulti-type&r, adapting to any strategy you throw at her. Face her unmatched skill without hesitation — and rise as the new legend of Sinnoh!"
+	]
+	quest.5E2DCF4788367C5B.quest_subtitle: "Defeat Camilla in Battle !"
+	quest.5E2DCF4788367C5B.title: "&#FFA013Champion Camilla&r !"
+	quest.5E8AD454A0FD2A21.quest_desc: [
+		"Defeat Angelo in Battle to get the &#31018FFog&r Badge !"
+		""
+		"Angelo drifts between the seen and unseen, guided by &9Ghostly&r spirits. Illuminate the shadows of his illusions and show that your resolve burns brighter than any specter !"
+	]
+	quest.5E8AD454A0FD2A21.quest_subtitle: "Defeat Angelo in Battle!"
+	quest.5E8AD454A0FD2A21.title: "&#31018FFog&r Badge (Angelo) !"
+	quest.5F1F02E77E580267.quest_desc: ["Complete all &#604D32Rivial&r quests to get the Master Ball !"]
+	quest.5F1F02E77E580267.quest_subtitle: "Revive all Fossil Pokémons !"
+	quest.5F811EED2AB27E23.quest_desc: ["Collect all &9Holding Items&r to get 2 of the Master Ball !"]
+	quest.5F811EED2AB27E23.quest_subtitle: "Collect all Holding Items !"
+	quest.5FC16B575C97C26C.quest_desc: [
+		"Defeat Blaine in Battle to get the &#FF050FVolcano&r badge !"
+		""
+		"Blaine’s &#FF7749Flames&r burn with both wisdom and chaos. Face the heat of his trials and emerge forged in fire, ready for any challenge ahead!"
+	]
+	quest.5FC16B575C97C26C.quest_subtitle: "Defeat Blaine in Battle !"
+	quest.5FC16B575C97C26C.title: "&#FF050FVolcano&r Badge (Blaine) !"
+	quest.604A6C2E1DE65017.quest_desc: ["Right-Click with the full urn to summon Moltres and prepare to battle!"]
+	quest.604A6C2E1DE65017.quest_subtitle: "Summon Moltres!"
+	quest.604A6C2E1DE65017.title: "Shiny Moltres!"
+	quest.607202BD97521172.title: "Find a Wishing Weald !"
+	quest.60818FF865F50099.quest_desc: [
+		"Defeat Koga in Battle to advance through the Elite Four of Johto !"
+		""
+		"Koga’s toxins test not just your Pokémon, but your patience. Breathe steady through the haze and show that strategy — not &#622670Poison&r — determines victory!"
+	]
+	quest.60818FF865F50099.quest_subtitle: "Defeat Koga in Battle !"
+	quest.60818FF865F50099.title: "Johto Second Elite !"
+	quest.60907CCF3E0AA183.quest_subtitle: "Craft the Urn of Frost!"
+	quest.60907CCF3E0AA183.title: "Uno!"
+	quest.60A63A3BD6E9470E.quest_desc: [
+		"Defeat Furio in Battle to get the &#854424Storm&r Badge !"
+		""
+		"Furio’s &#FF050Afists&r strike like crashing waves, testing your endurance and power. Stand tall through the storm and prove that your will is stronger than the tide !"
+	]
+	quest.60A63A3BD6E9470E.quest_subtitle: "Defeat Furio in Battle !"
+	quest.60A63A3BD6E9470E.title: "&#854424Storm&r Badge (Furio) !"
+	quest.610EF099AB352DEC.quest_desc: ["Use Pokeballs to catch new Pokémon!"]
+	quest.610EF099AB352DEC.quest_subtitle: "Catch 10% of the Pokédex"
+	quest.610EF099AB352DEC.title: "First Captures"
+	quest.611FA09FBFF3A10D.quest_subtitle: "Used to transform Rotom into Wash form !"
+	quest.611FA09FBFF3A10D.title: "Craft a Wash Unit !"
+	quest.61528B25DD398C57.quest_desc: ["Found in Plains Biome !"]
+	quest.61528B25DD398C57.quest_subtitle: "Found in Plains Biome !"
+	quest.6224E8D42D331EFE.quest_desc: ["Found it in Mountain or Taiga Biomes !"]
+	quest.6224E8D42D331EFE.quest_subtitle: "Found it in Mountain or Taiga Biomes !"
+	quest.6229D6CFF331EEA2.quest_desc: ["Found in Forest, Mushroom, Spooky, or Swamp Biomes !"]
+	quest.6229D6CFF331EEA2.quest_subtitle: "Found in Forest, Mushroom, Spooky, or Swamp Biomes !"
+	quest.62427FBC65211340.quest_subtitle: "Evolve Eevee using a Water Stone !"
+	quest.62427FBC65211340.title: "Vaporeon !"
+	quest.626E9BB1B8A372FF.quest_desc: ["Has drop rate of 10% !"]
+	quest.626E9BB1B8A372FF.quest_subtitle: "Obtained by defeating a Rock-type Pokémon !"
+	quest.62DD247E716E73B1.quest_desc: ["Use the Old Sea Map on the altar to summon Mew!"]
+	quest.62DD247E716E73B1.quest_subtitle: "Summon Mew!"
+	quest.62DD247E716E73B1.title: "Shiny Mew!"
+	quest.631DE1C9C0D688EB.quest_desc: ["Has drop rate of 10% !"]
+	quest.631DE1C9C0D688EB.quest_subtitle: "Obtained by defeating a Ground-type Pokémon !"
+	quest.63324A400A88BDC8.quest_desc: [
+		"Defeat Erika in Battle to get the &4R&r&#FF904Ca&r&#FFE04Ai&r&#256E2Fn&r&#5284FFb&r&#2B31FFo&r&#FF5E8Cw&r badge !"
+		""
+		"Erika’s calm demeanor hides the wild strength of nature. Face her &#386A48Grass-type&r, Flowery illusions and show that balance, not beauty, defines true mastery!"
+	]
+	quest.63324A400A88BDC8.quest_subtitle: "Defeat Erika in Battle !"
+	quest.63324A400A88BDC8.title: "&4R&r&#FF904Ca&r&#FFE04Ai&r&#256E2Fn&r&#5284FFb&r&#2B31FFo&r&#FF5E8Cw&r Badge (Erika) !"
+	quest.65567009D401C3B2.quest_desc: [
+		"Defeat Terrie in Battle to advance through the Elite Four of Sinnoh !"
+		""
+		"Terrie’s &#6A3629Ground&r Pokémon are sturdy and unforgiving. Stand firm against her power and break through her unshakable defenses!"
+	]
+	quest.65567009D401C3B2.quest_subtitle: "Defeat Terrie in Battle !"
+	quest.65567009D401C3B2.title: "Sinnoh Second Elite !"
+	quest.655BBC1A286D27F8.quest_desc: [
+		"Defeat Karen in Battle to battle the Champion of Johto !"
+		""
+		"Karen’s &#0F1218Dark-types&r thrive in the shadows, feeding on doubt and fear. Let your confidence shine bright and remind her that true strength comes from the heart!"
+	]
+	quest.655BBC1A286D27F8.quest_subtitle: "Defeat Karen in Battle !"
+	quest.655BBC1A286D27F8.title: "Johto Fourth Elite !"
+	quest.65650936ABCA8113.quest_desc: [
+		"Defeat Lance in Battle to claim the title of \"&#FFC272Champion of Kanto&r\" !"
+		""
+		"Confident and sharp, Blue is the ultimate&z Multi-type&r challenge. His every move pushes you to prove your skill and spirit—rise above his pride and show the true heart of a Champion!"
+	]
+	quest.65650936ABCA8113.quest_subtitle: "Defeat Blue in Battle !"
+	quest.65650936ABCA8113.title: "&#FFC272Champion Blue&r !"
+	quest.6585AE70F0D36234.quest_subtitle: "Catch the Legendary Regice !"
+	quest.6585AE70F0D36234.title: "Regice !"
+	quest.6621F7FCAFA53932.quest_subtitle: "Half of the Players"
+	quest.6621F7FCAFA53932.title: "Sleep Percentage"
+	quest.662821677D70E1AB.quest_desc: [
+		"Dropped by Pokémons:"
+		""
+		"Absol, Sableye, Deino, Scraggy, Zorua, Pancham, Impidimp, Morpeko, Nickit"
+	]
+	quest.662821677D70E1AB.quest_subtitle: "Dropped by Pokémons: Absol, Sableye, Deino, Scraggy, Zorua, Pancham, Impidimp, Morpeko, Nickit !"
+	quest.662E7E15CBEB545D.quest_desc: ["           Buy 4 and get 1 FREE!"]
+	quest.662E7E15CBEB545D.quest_subtitle: "768x Relic Coins"
+	quest.662E7E15CBEB545D.title: "Mega Stone Bundle"
+	quest.66495AC110C057AA.title: "Catch Reshiram !"
+	quest.664FA788FF9C5670.title: "Trade 1 Diamond for 1 Coin !"
+	quest.67CDB0E984FF17C6.quest_desc: ["Use 50 Shards by left-clicking on a Pokémon to change its Tera Type to &zStellar&r Tera Type !"]
+	quest.67CDB0E984FF17C6.quest_subtitle: "Use 50 Shard to change Pokémon Tera Type to Stellar Tera Type !"
+	quest.67CDB0E984FF17C6.title: "Change To Stellar Tera Type !"
+	quest.6893FA8E1AB4E169.quest_desc: [""]
+	quest.6893FA8E1AB4E169.quest_subtitle: "Craft Megaring, then right click to equip !"
+	quest.6893FA8E1AB4E169.title: "Craft Megaring !"
+	quest.68B15C9BBFED8C6D.title: "Buy 12 Ender Portals !"
+	quest.690F0A2F70379626.quest_desc: ["Defeat 50x Electric-Type Pokémon to fill the urn!"]
+	quest.690F0A2F70379626.quest_subtitle: "Defeat 50x Electric-Type Pokémon!"
+	quest.69341AF36BC5352F.quest_desc: ["Found in Arid Biome !"]
+	quest.69341AF36BC5352F.quest_subtitle: "Found in Arid Biome !"
+	quest.69B7480B652E9BB1.quest_desc: ["Has drop rate of 10% !"]
+	quest.69B7480B652E9BB1.quest_subtitle: "Obtained by defeating a Water-type Pokémon !"
+	quest.69B8B6275C0AB51D.quest_desc: [
+		"You’ve collected all 8 &#82FF05Hoenn&r Badges — it’s time for the Elite Four!"
+		""
+		"Go to the Hoenn League (Steppe) to begin your challenge. Defeat all 4 members to earn the right to face the Hoenn Champion!"
+	]
+	quest.69C6D708010EB6AD.quest_subtitle: "Found in the wilds. Collect Apricorns and Apricorn Sprouts !"
+	quest.69C8F6EF4FC1E40E.quest_desc: [
+		"1. Equip Dynamax Band by right clicking while the item on right hand."
+		""
+		"2. Feed your Pokemon Max Soup."
+		""
+		"3. You need to to be within 20 blocks of a Power Spot."
+		""
+		"4. To Gigantamax in buttle: Click the Dynamax button, then choose any move."
+	]
+	quest.69C8F6EF4FC1E40E.quest_subtitle: "Read the description for details !"
+	quest.69F14BA9B10AE31C.quest_desc: [
+		"Defeat Raffaello in Battle to get the &#FF0B0BH&r&0iv&r&#FF0A05e&r Badge !"
+		""
+		"Raffaello’s mastery of &#719D4BBug-types&r weaves a web of clever tactics. Cut through his swarm with focus and show that adaptability is the true mark of evolution !"
+	]
+	quest.69F14BA9B10AE31C.quest_subtitle: "Defeat Raffaello in Battle !"
+	quest.69F14BA9B10AE31C.title: "&#FF0B0BH&r&0iv&r&#FF0A05e&r Badge (Raffaello) !"
+	quest.6A170D72D6CDA3D0.quest_subtitle: "Evolve Eevee using a Leaf Stone !"
+	quest.6A170D72D6CDA3D0.title: "Leafeon !"
+	quest.6AA5D3F4F0EE5833.quest_subtitle: "Evolve Eevee using a Thunder Stone !"
+	quest.6AA5D3F4F0EE5833.title: "Jolteon !"
+	quest.6AE160F476570C4A.title: "Craft a Dynamax Candy !"
+	quest.6B5A90DA2AA73DEF.quest_desc: [""]
+	quest.6B5A90DA2AA73DEF.quest_subtitle: "Used to house and display Pokémon outside your party, letting them wander and be interacted with !"
+	quest.6B5A90DA2AA73DEF.title: "Craft a Pasture Block !"
+	quest.6C153DF5893B5D10.title: "Catch Calyrex !"
+	quest.6C1F62B3F4D313FB.quest_desc: ["Has drop rate of 10% !"]
+	quest.6C1F62B3F4D313FB.quest_subtitle: "Obtained by defeating a Fire-type Pokémon !"
+	quest.6C361AEC4858A744.quest_desc: [
+		"1. Equip Dynamax Band by right clicking while the item on right hand."
+		""
+		"2. You need to be within 20 blocks of a Power Spot."
+		""
+		"3. You can Dynamax in buttle only."
+		""
+		"4. To Dynamax, click the Dynamax button, then choose any move !"
+	]
+	quest.6C361AEC4858A744.quest_subtitle: "Read the description for details !"
+	quest.6C9D318BBBFB71CC.quest_desc: [""]
+	quest.6C9D318BBBFB71CC.quest_subtitle: "Used to find Pokémon while exploring. You can type a Pokémon’s name to search for it, see where it spawns, when it appears !"
+	quest.6C9D318BBBFB71CC.title: "Craft a PokéFinder !"
+	quest.6CFF41376AB37C01.quest_subtitle: "Catch the Legendary Latias !"
+	quest.6CFF41376AB37C01.title: "Latias !"
+	quest.6DDE648965DA85F3.quest_subtitle: "Look for a Blank-Z in the Observatory !"
+	quest.6E4B9435A23DD309.quest_desc: [
+		"Defeat Koga in Battle to get the &#FF93CESoul&r badge !"
+		""
+		"Koga moves unseen, striking from the shadows. Resist his &#622670Toxic&r traps and prove that your focus can cut through even the thickest haze!"
+	]
+	quest.6E4B9435A23DD309.quest_subtitle: "Defeat Koga in Battle !"
+	quest.6E4B9435A23DD309.title: "&#FF93CESoul&r Badge (Koga) !"
+	quest.6E68323B58AC1CEF.quest_desc: ["Has drop rate of 10% !"]
+	quest.6E68323B58AC1CEF.quest_subtitle: "Obtained by defeating a Dragon-type Pokémon !"
+	quest.6FCCFCC6226A417D.quest_subtitle: "Normal"
+	quest.6FCCFCC6226A417D.title: "Choose your Difficulty"
+	quest.6FF87B71101C853A.quest_desc: [
+		"Defeat Alfredo in Battle to get the &#30A6FFGlacier&r Badge !"
+		""
+		"Alfredo’s &bicy&r calm hides decades of wisdom and discipline. Endure his chilling tactics and prove that your fire of youth can melt even the coldest experience !"
+	]
+	quest.6FF87B71101C853A.quest_subtitle: "Defeat Alfredo in Battle !"
+	quest.6FF87B71101C853A.title: "&#30A6FFGlacier&r Badge (Alfredo) !"
+	quest.6FF930DB71CC93F8.quest_subtitle: "Used to transform Rotom into Fan form !"
+	quest.6FF930DB71CC93F8.title: "Craft a Fan Unit !"
+	quest.7011C6E2DBBA7D76.quest_desc: ["Has drop rate of 10% !"]
+	quest.7011C6E2DBBA7D76.quest_subtitle: "Obtained by defeating a Steel-type Pokémon !"
+	quest.7031EDDEB769A2D4.quest_desc: ["Has drop rate of 10% !"]
+	quest.7031EDDEB769A2D4.quest_subtitle: "Obtained by defeating a Ghost-type Pokémon !"
+	quest.709D857B1D2AD7C1.title: "Catch a &#FF91EEshiny&r Pokémon !"
+	quest.70DD4A0DFD0984BE.quest_desc: ["Found in Desert, Floral, Magical, Savanna, or Spooky Biomes !"]
+	quest.70DD4A0DFD0984BE.quest_subtitle: "Found in Desert, Floral, Magical, Savanna, or Spooky Biomes !"
+	quest.70F4748FDC3B9C61.quest_subtitle: "Catch the Shiny Legendary Regirock !"
+	quest.70F4748FDC3B9C61.title: "Shiny Regirock !"
+	quest.722085FB745C80FD.title: "Collect 50 of Stellar Tera shard type !"
+	quest.72302BBF82F4C9F1.quest_desc: [
+		"1. Equip Dynamax Band by right clicking while the item on right hand."
+		""
+		"2. Feed Urshifu Max Sweet Soup to enable Gigantamax."
+		""
+		"3. You need to to be within 20 blocks of a Power Spot."
+		""
+		"4. To Gigantamax in buttle: Click the Dynamax button, then choose any move."
+	]
+	quest.72302BBF82F4C9F1.quest_subtitle: "Read the description for details !"
+	quest.72302BBF82F4C9F1.title: "How to Gigantamax Urshifu !"
+	quest.726CD8A57912B25F.quest_subtitle: "All Players"
+	quest.726CD8A57912B25F.title: "Sleep Percentage"
+	quest.72DD1356F26C51BB.quest_desc: ["Has drop rate of 10% !"]
+	quest.72DD1356F26C51BB.quest_subtitle: "Obtained by defeating a Flying-type Pokémon !"
+	quest.7307C27C65D49EF6.quest_subtitle: "Piece Together the Omen."
+	quest.7307C27C65D49EF6.title: "Form the Raven's Pact"
+	quest.7347687D138BC30C.quest_desc: [""]
+	quest.7347687D138BC30C.quest_subtitle: "In Plains Biome find Ash at his house and defeat him to get his cap !"
+	quest.7347687D138BC30C.title: "Find Ash's House !"
+	quest.736A369CEB61B384.title: "Catch Lunala !"
+	quest.737EE014577C5F2D.quest_desc: ["Revive by inserting &#EBFF45Claw Fossil&r in a restoration machine !"]
+	quest.737EE014577C5F2D.title: "Revive Anorith !"
+	quest.748C22BA38946992.quest_subtitle: "See Terastalization page on how to get !"
+	quest.74A93472D684FA8F.quest_subtitle: "Catch the Legendary Registeel !"
+	quest.74A93472D684FA8F.title: "Registeel !"
+	quest.7530755917865FBD.quest_desc: [""]
+	quest.7530755917865FBD.quest_subtitle: "Used to place and display Mega Stones or special items that activate forms or mechanics !"
+	quest.7530755917865FBD.title: "Craft a Pedestal !"
+	quest.757C3429CBBDE124.quest_subtitle: "Used to transform Rotom into Oven form !"
+	quest.757C3429CBBDE124.title: "Craft an Oven Unit !"
+	quest.75969455148170AC.quest_desc: ["Craft all &6Cobblecuisins&r to get the Master Ball !"]
+	quest.75969455148170AC.quest_subtitle: "Craft all Cobblecuisin foods !"
+	quest.75C012A4F439BC6B.quest_subtitle: "See Mega Evolotion page on how to get !"
+	quest.761A63864834610F.quest_subtitle: "Use a brush on Suspicious Sand to get a Dark Sparkling Stone !"
+	quest.765971F12F119CEB.quest_desc: ["Found in Jungle or Swamp Biomes !"]
+	quest.765971F12F119CEB.quest_subtitle: "Found in Jungle or Swamp Biomes !"
+	quest.768B1CFF89837E48.quest_desc: [
+		"You’ve collected all 8 &#106CFFJohto&r Badges — it’s time for the Elite Four!"
+		""
+		"Go to the Elite Four Tower in &#772AB7The End&r to begin your challenge. Defeat all 4 members to earn the right to face the Johto Champion!"
+	]
+	quest.778E27E4A999A625.quest_subtitle: "Catch Yveltal"
+	quest.778E27E4A999A625.title: "Wings of Desolation"
+	quest.77C3FB8D09688E17.quest_desc: ["Found in a Ocean Ruin Warm by using a brush on Suspicious Sand or Gravel !"]
+	quest.77C3FB8D09688E17.quest_subtitle: "Found in a Ocean Ruin Warm by using a brush on Suspicious Sand or Gravel !"
+	quest.78020A754F4F01F4.quest_desc: [
+		"Defeat Sabrina in Battle to get the &#FFCD6FMarsh&r badge !"
+		""
+		"Sabrina bends reality with her &#8F316BPsychic&r powers. Stay grounded in your will — one moment of doubt, and your thoughts will become your cage!"
+	]
+	quest.78020A754F4F01F4.quest_subtitle: "Defeat Sabrina in Battle !"
+	quest.78020A754F4F01F4.title: "&#FFCD6FMarsh&r Badge (Sabrina) !"
+	quest.78B384641F20D91A.quest_desc: ["Found in Coast, Freshwater, Island, or Ocean Biomes !"]
+	quest.78B384641F20D91A.quest_subtitle: "Found in Coast, Freshwater, Island, or Ocean Biomes !"
+	quest.794CF1D3743688FE.quest_desc: ["Revive by inserting &#8385FFPlume Fossil&r in a restoration machine !"]
+	quest.794CF1D3743688FE.title: "Revive Archen !"
+	quest.7A0B40134A198B80.quest_desc: [
+		"Congrats on beating Hoenn’s Champion!"
+		""
+		"Your next challenge is the Hoenn Gyms. Defeat all 8 Leaders and collect their Badges."
+		""
+		"Please restart the game to spawn &#FF2EAASinnoh&r Gyms."
+		"(Sorry, that’s just how the modpack works!)"
+	]
+	quest.7A0B40134A198B80.title: "Sinnoh Gyms !"
+	quest.7A1DDE736707523C.quest_subtitle: "See Z-Moves page on how to get !"
+	quest.7AE1C303AD95628D.quest_subtitle: "Used to transform Rotom into Fridge form !"
+	quest.7AE1C303AD95628D.title: "Craft a Fridge Unit !"
+	quest.7B1E0D44B64C1E36.quest_desc: ["Revive by inserting &6Fosslized Bird&r and &#5E4FFFFosslized Dino&r in a restoration machine !"]
+	quest.7B1E0D44B64C1E36.title: "Revive Arctozolt !"
+	quest.7BC6F724F1E393EE.quest_desc: ["Found in Arid Biome !"]
+	quest.7BC6F724F1E393EE.quest_subtitle: "Found in Arid Biome !"
+	quest.7C34DAE40BF586BC.quest_desc: ["Defeat 50x Ice-Type Pokémon to fill the urn!"]
+	quest.7C34DAE40BF586BC.quest_subtitle: "Defeat 50x Ice-Type Pokémon!"
+	quest.7CADCAD761EC59E0.quest_desc: ["Use Pokeballs to catch new Pokémon!"]
+	quest.7CADCAD761EC59E0.quest_subtitle: "Catch 100% of the Pokédex"
+	quest.7CADCAD761EC59E0.title: "Complete Living Dex"
+	quest.7CF8D81142353BAD.quest_desc: ["Found in Jungle, Magical, Mountain, Sky, Volcanic Biomes !"]
+	quest.7CF8D81142353BAD.quest_subtitle: "Found in Jungle, Magical, Mountain, Sky, Volcanic Biomes !"
+	quest.7D0DE721F3E31E34.quest_desc: ["Revive by inserting &#A0FF4AFosslized Drake&r and &#5E4FFFFosslized Dino&r in a restoration machine !"]
+	quest.7D0DE721F3E31E34.title: "Revive Arctovish !"
+	quest.7D3311A23B29FB40.quest_desc: ["Evolve &#874C31Eevee&r into its diffrent forms to get this reward !"]
+	quest.7D7201E2E6EBA14C.quest_subtitle: "Found by breaking Pink Mint plant !"
+	quest.7DA2522947F5CA43.quest_desc: ["Use Pokeballs to catch new Pokémon!"]
+	quest.7DA2522947F5CA43.quest_subtitle: "Catch 90% of the Pokédex"
+	quest.7DA2522947F5CA43.title: "On the Verge of Completion"
+	quest.7E0382E59A70BC53.quest_subtitle: "Craft the Urn of Storms!"
+	quest.7E0382E59A70BC53.title: "Dos!"
+	quest.7E6A310F8A5F4441.quest_subtitle: "Peaceful"
+	quest.7E6A310F8A5F4441.title: "Choose your Difficulty"
+	quest.7EA216363C997225.title: "Mega Evolve a Pokémon !"
+	quest.7EA6AC99088B72E6.quest_subtitle: "Easy"
+	quest.7EA6AC99088B72E6.title: "Choose your Difficulty"
+	quest.7F0A5DE97A7EFFC9.quest_desc: ["Use the Pokédex Scan function to Register Pokémon."]
+	quest.7F0A5DE97A7EFFC9.quest_subtitle: "Register 60% of the Pokédex!"
+	quest.7F0A5DE97A7EFFC9.title: "Eyes on Everything"
+	quest.7F3B6D439DACE855.quest_subtitle: "Found in the wilds. Collect Apricorns and Apricorn Sprouts !"
+	quest.7F44752FAEDC9581.quest_desc: [""]
+	quest.7F44752FAEDC9581.quest_subtitle: "Used to showcase rare items, PokéBalls, or collectibles for decoration or reference !"
+	quest.7F44752FAEDC9581.title: "Craft a Display Case !"
+	reward.0378CB3C28818434.title: "Half of the players need to sleep to skip the night"
+	reward.0ED44312892295E8.title: "&l&oFace Yveltal"
+	reward.15ED2D3E42B7A063.title: "Dont Keep Inventory after Death"
+	reward.1E2782AB5C327CB4.title: "Difficulty will be set to Easy"
+	reward.22BF1E441D10ACF9.title: "Difficulty will be set to Normal"
+	reward.2771EA4B07C17E0F.title: "All players need to sleep to skip the night"
+	reward.2B703510B61EC385.title: "10 PokéDollar"
+	reward.2FD21E45D05D29ED.title: "Hostile mobs wont spawn"
+	reward.32C67F2C1B3B140E.title: "Make your Pokémon Shiny"
+	reward.35E5B438E2BA74DA.title: "1000 PokeDollars"
+	reward.46DFAF42FA57AB6E.title: "Keep Inventory after Death"
+	reward.57E4FD78F7BD19B0.title: "Difficulty will be set to Peaceful"
+	reward.5CD9CEC22FB9231E.title: "Difficulty will be set to Hard"
+	reward.5FCCC518C4E309A6.title: "Only one player needs to sleep to skip the night"
+	reward.69F1DF5A989EE554.title: "Call Yveltal"
+	reward.6A28038E4E1FAC07.title: "100 PokéDollars"
+	reward.7200DFAEC9AB3430.title: "Hostile mobs will spawn"
+	reward.740122F35A10896F.title: "1000 PokéDollars"
+	reward_table.03691623482CA61F.title: "Pokenavs"
+	reward_table.0974FEEBF2892AD5.title: "Pokedex"
+	reward_table.121504C3EBE391CC.title: "Evolution Stone"
+	reward_table.229A212FD1958900.title: "Candies"
+	reward_table.25A699FF246D3DFD.title: "Z-Rings"
+	reward_table.2860897BD8E67921.title: "Choice Item"
+	reward_table.31BD84FB02E1523E.title: "Kanto Fossil"
+	reward_table.47C9C4284F205D61.title: "PokeFinders"
+	reward_table.4C78724E05769FA8.title: "Power Ups"
+	reward_table.5290DC8F80C2CA95.title: "Plate"
+	reward_table.5E93FA892A1F238F.title: "Medicinces"
+	reward_table.640A47595391B71F.title: "Coins"
+	reward_table.718565BDECCCEE18.title: "Apricorn"
+	reward_table.730F5A3CD029BE6C.title: "Held Item"
+	reward_table.7A022BCE6F9EB34A.title: "Balls"
+	task.0117D76EB4005D49.title: "Johto Elite 4 !"
+	task.0177FA0528AF6494.title: "Keep Inventory after Death?"
+	task.02AD93416028096D.title: "Gotta Pick 'em All !"
+	task.02CAC873BB6F55C3.title: "Johoto Gyms"
+	task.07B3B84032E4CB96.title: "How to Terastallize a Pokémon ?"
+	task.07CFB99DEC9B3E31.title: "Gotta Plant Them All!"
+	task.09A9181EF9437635.title: "Fusion"
+	task.0E7CEB252F5CCC9F.title: "Fusion !"
+	task.0F19BA27730971C2.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.0FB26D3F9204043E.title: "Gotta Eeveelove 'em All !"
+	task.100D5C39D87B4423.title: "Start Game"
+	task.10CE349DA8F3AE3E.title: "Kubfu"
+	task.11986DAC5345187D.title: "Got Eat 'em All !"
+	task.142E50A6E9FD2CCB.title: "Boulder Badge"
+	task.14D82A9FBE422C7F.title: "Umbreon"
+	task.17F9426F19366228.title: "Kanto's Gyms !"
+	task.1CAA310D4E8A5CDA.title: "You got Balls kid!"
+	task.1CE101639F334BD5.title: "testr"
+	task.20915F3F70059AE0.title: "Got them All"
+	task.26CCF725331CA5A7.title: "Kanto Elite 4 !"
+	task.271439E2FC25E344.title: "Glaceon"
+	task.2AE1D33F61786C31.title: "How to dynamax !"
+	task.33DFD5B8B7889351.title: "Complete"
+	task.35C1B040867AE34E.title: "Gotta Revive 'em All !"
+	task.3920985533B3B53A.title: "Welcome to Cobblemon!"
+	task.3D59DA5339EEB1D5.title: "Flareon"
+	task.4813C2A1AB01480E.title: "Mega Evolve !"
+	task.489E3B0156EFDAC2.title: "Leafeon"
+	task.4F9D1C178A11ADBC.title: "How to Gigantamax Urshifu !"
+	task.501344F40B022A6E.title: "One of them !"
+	task.50533185418B0CD9.title: "Vaporeon"
+	task.54E806F12C5C5432.title: "Gotta Evolve 'em All !"
+	task.55E9406641CF64DD.title: "Brock Gym"
+	task.5978CC780EEE32A7.title: "Gotta Heal 'em All !"
+	task.5D47742A5D5FEED9.title: "Sinnoh Elite 4 !"
+	task.5FFFF341290BB3CD.title: "Find a Mega Site!"
+	task.6144465711D77EB8.title: "Test"
+	task.67D902A33CAAB5CC.title: "Kanto Gyms !!"
+	task.67FB424D3A8B9149.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.6DFEA49A65CAF55F.title: "Hoenn Elite 4 !"
+	task.7148BE5EA879941C.title: "How to use Z-Moves ?"
+	task.7675D102177EDE26.title: "Unknown type: cobblemon_tasks:cobblemon_task"
+	task.771281D2C399F8C1.title: "Start Configuration"
+	task.771333CC48B19678.title: "Gota Catch 'em All !"
+	task.7A56191B63B44F31.title: "Espeon"
+	task.7AAA74F84D81BE29.title: "Gotta Hold 'em All !"
+	task.7C847ACCAEAB5E39.title: "How to Gigantamax !"
+	task.7F3F5555EE829D1F.title: "Jolteon"
+	task.7F496645F7F7EE8A.title: "Gotta Power 'em All !"
+}

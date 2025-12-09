@@ -1,0 +1,648 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "legendary_quests"
+	group: "465BCD647768A571"
+	hide_quest_until_deps_complete: true
+	icon: {
+		id: "waystones:warp_scroll"
+	}
+	id: "05D4FCEE1C64A6B7"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["6752012806245B68"]
+			icon: {
+				id: "legendarymonuments:old_sea_map"
+			}
+			id: "4BE04A7A614929A6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2FB01BFF4990A407"
+				table_id: 7208652602539620127L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4DF760475374E8A9"
+				type: "checkmark"
+			}]
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"6752012806245B68"
+				"4BE04A7A614929A6"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				id: "quest_items:black_pearl"
+			}
+			id: "0D2DD145FD74A6F6"
+			rewards: [
+				{
+					id: "465504A9B1F30C17"
+					item: {
+						count: 1
+						id: "quest_items:black_pearl"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "40478975660C931A"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					consume_items: true
+					count: 8L
+					id: "5AA9457422694525"
+					item: { count: 1, id: "minecraft:ghast_tear" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 12L
+					id: "0BC0FD1387CEBC48"
+					item: { count: 1, id: "minecraft:wither_rose" }
+					type: "item"
+				}
+				{
+					action: "defeat"
+					amount: 10L
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "46C3FF241FD44EB8"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: ""
+					pokemon_type: "dark"
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					id: "45670E79BCBC64B9"
+					type: "dimension"
+				}
+			]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"6752012806245B68"
+				"7307C27C65D49EF6"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				id: "quest_items:corruption_orb"
+			}
+			id: "16184E6FC0D54619"
+			rewards: [
+				{
+					id: "5489565EE401C600"
+					item: {
+						count: 1
+						id: "quest_items:corruption_orb"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "40EE8F3EE1972FCA"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					consume_items: true
+					id: "5AFE42621ABA9930"
+					item: { components: { "minecraft:enchantments": { levels: { "minecraft:vanishing_curse": 1 } }, "minecraft:rarity": "rare" }, count: 1, id: "ftb_quests_item_rewards:void_sphere" }
+					type: "item"
+				}
+				{
+					biome: "minecraft:dark_forest"
+					id: "4A1B414C95FA70FF"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:soul_sand_valley"
+					id: "0163496189DFE6E3"
+					type: "biome"
+				}
+				{
+					id: "59A2332717C2C5DE"
+					structure: "nova_structures:remnant_graveyard"
+					type: "structure"
+				}
+			]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"6752012806245B68"
+				"16184E6FC0D54619"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				id: "ftb_quests_item_rewards:the_egg"
+			}
+			id: "1AAD2FA4DF615D90"
+			rewards: [
+				{
+					id: "0E70F670DEF6D138"
+					item: {
+						count: 1
+						id: "ftb_quests_item_rewards:the_egg"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2A6E21BBD916E705"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					consume_items: true
+					count: 16L
+					id: "3EB5A6CDE8317A77"
+					item: { count: 1, id: "minecraft:soul_soil" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 5L
+					id: "69BE711D70B995DA"
+					item: { count: 1, id: "minecraft:netherite_ingot" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 3L
+					id: "1128E197CB34EEFD"
+					item: { count: 1, id: "minecraft:enchanted_golden_apple" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "01A89914171F8A06"
+					item: { components: { "minecraft:enchantments": { levels: { "minecraft:infinity": 1 } }, "minecraft:rarity": "rare" }, count: 1, id: "quest_items:corruption_orb" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"6752012806245B68"
+				"1AAD2FA4DF615D90"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "58E03661928EFB7C"
+			rewards: [
+				{
+					command: "/pokespawn yveltal"
+					icon: {
+						id: "minecraft:nether_star"
+					}
+					id: "69F1DF5A989EE554"
+					type: "command"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "02432C56E55AE896"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					consume_items: true
+					id: "5AFDA1259E18F6E4"
+					item: { count: 1, id: "ftb_quests_item_rewards:the_egg" }
+					type: "item"
+				}
+				{
+					id: "6D6B414E00785076"
+					item: { count: 1, id: "minecraft:totem_of_undying" }
+					type: "item"
+				}
+				{
+					action: "kill"
+					amount: 10L
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "5BDACB9C4604F4C4"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: ""
+					pokemon_type: "dark"
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1F3BC0E04D66A76D"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"cobblemon:pokemon_item": {
+						aspects: [ ]
+						species: "cobblemon:yveltal"
+						tint: [
+							1.0f
+							1.0f
+							1.0f
+							1.0f
+						]
+					}
+				}
+				id: "cobblemon:pokemon_model"
+			}
+			id: "778E27E4A999A625"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "65F00CB367EF2CCD"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0987FCE057605D31"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1F6FC3A38A577F0D"
+					table_id: 5510279823512477608L
+					type: "random"
+				}
+				{
+					id: "6C87DA3E40181791"
+					item: {
+						count: 1
+						id: "cobblemon:master_ball"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "57DD3D03F5A503B6"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:yveltal"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"6752012806245B68"
+				"0D2DD145FD74A6F6"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				id: "ftb_quests_item_rewards:void_sphere"
+			}
+			id: "7307C27C65D49EF6"
+			rewards: [
+				{
+					id: "77C6F6B5E43D41F9"
+					item: {
+						count: 1
+						id: "ftb_quests_item_rewards:void_sphere"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1F065FC8939E7A2C"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				id: "790EEC117E5D949E"
+				item: { components: { "minecraft:enchantments": { levels: { "minecraft:binding_curse": 1 } }, "minecraft:rarity": "rare" }, count: 1, id: "quest_items:black_pearl" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"6752012806245B68"
+				"0D2DD145FD74A6F6"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:experience_bottle"
+			}
+			id: "36109828F2075464"
+			optional: true
+			rewards: [{
+				id: "24D2ACD136B7BFC9"
+				item: {
+					components: {
+						"minecraft:enchantments": {
+							levels: {
+								"minecraft:binding_curse": 1
+							}
+						}
+						"minecraft:rarity": "rare"
+					}
+					count: 1
+					id: "quest_items:black_pearl"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					id: "0DA290A4D3D99A5F"
+					item: { count: 1, id: "quest_items:black_pearl" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "2A500165741D5190"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:binding_curse": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+				{
+					id: "1D66B7B1A62B9DAE"
+					points: false
+					type: "xp"
+					value: 5L
+				}
+			]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"6752012806245B68"
+				"16184E6FC0D54619"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:experience_bottle"
+			}
+			id: "1BC6FDAC48A78315"
+			optional: true
+			rewards: [{
+				id: "289E8CA8BD738687"
+				item: {
+					components: {
+						"minecraft:enchantments": {
+							levels: {
+								"minecraft:infinity": 1
+							}
+						}
+						"minecraft:rarity": "rare"
+					}
+					count: 1
+					id: "quest_items:corruption_orb"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					id: "217AAFA4CB8E21DD"
+					item: { count: 1, id: "quest_items:corruption_orb" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "4BE342DD436D868D"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:infinity": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+				{
+					id: "6DD39FF584D42472"
+					points: false
+					type: "xp"
+					value: 15L
+				}
+			]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"6752012806245B68"
+				"7307C27C65D49EF6"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:experience_bottle"
+			}
+			id: "31C2D7401DB80B93"
+			optional: true
+			rewards: [{
+				id: "3EF19D7BB748CE43"
+				item: {
+					components: {
+						"minecraft:enchantments": {
+							levels: {
+								"minecraft:vanishing_curse": 1
+							}
+						}
+						"minecraft:rarity": "rare"
+					}
+					count: 1
+					id: "ftb_quests_item_rewards:void_sphere"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					id: "1C10511AA43EC109"
+					item: { count: 1, id: "ftb_quests_item_rewards:void_sphere" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "184B54CDEE7BC689"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:vanishing_curse": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+				{
+					id: "3C8A3E0FAC5972BE"
+					points: false
+					type: "xp"
+					value: 10L
+				}
+			]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6752012806245B68"]
+			icon: {
+				id: "legendarymonuments:old_sea_map"
+			}
+			id: "4460725CBBAE0DF2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5E92017B76B079FA"
+				table_id: 7208652602539620127L
+				type: "random"
+			}]
+			tasks: [{
+				id: "11923E00C4B67B3F"
+				type: "checkmark"
+			}]
+			x: -7.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"6752012806245B68"
+				"4460725CBBAE0DF2"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				id: "quest_items:black_pearl"
+			}
+			id: "2CBFED1D6E7BABCA"
+			rewards: [
+				{
+					id: "14EF7153D6B7ED7B"
+					item: {
+						count: 1
+						id: "quest_items:black_pearl"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "55245C2C0D99E482"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					biome: "minecraft:deep_dark"
+					id: "70E8A5A2817F3D88"
+					type: "biome"
+				}
+				{
+					id: "18BEC50D20AE85A0"
+					item: { count: 1, id: "minecraft:netherite_boots" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6752012806245B68"
+				"2CBFED1D6E7BABCA"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				id: "quest_items:black_pearl"
+			}
+			id: "24790F0243D0FC12"
+			rewards: [
+				{
+					id: "422D6C7AA5494626"
+					item: {
+						count: 1
+						id: "quest_items:black_pearl"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4805852339636B84"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				action: "defeat"
+				amount: 20L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "41948FD5227DEE49"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -5.0d
+			y: 1.0d
+		}
+	]
+}
