@@ -16,3 +16,7 @@ drop this mods inside your instance/mods folder and run the game
 ### Step 2: Configuration
 
 clone this repository, or download it as a zip, extract and then copy the "quests" folder into instance/config/ftbquests/
+
+## Notes
+- These quests are **optional**, but they add structure and goals to the modpack.  
+- No FTB mods or assets are distributed in this repository. Only original quest files created for the modpack are provided.
