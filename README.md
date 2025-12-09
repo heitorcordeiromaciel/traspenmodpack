@@ -1,4 +1,4 @@
-# traspenmodpack
+# Additional Quests for the Traspen Modpack
 Additional content for the [Traspen Modpack](https://modrinth.com/modpack/traspen) on modrinth
 
 ## Installation
